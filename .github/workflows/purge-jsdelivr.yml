@@ -1,0 +1,15 @@
+name: Purge JSDelivr Cache
+
+on:
+  push:
+    branches:
+      - main  # 监听 main 分支的推送
+
+jobs:
+  purge-cache:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger JSDelivr Cache Purge
+        run: |
+          curl -X GET "https://purge.jsdelivr.net/gh/caolib/cdn@main/css/blog.css"

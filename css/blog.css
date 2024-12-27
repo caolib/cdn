@@ -59,6 +59,7 @@ h1 {
 
 /* 引用框 */
 blockquote {
+    border: unset;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     border-top-right-radius: 10px;
@@ -93,4 +94,9 @@ blockquote {
 mark {
     background: #ff0;
     color: red;
+}
+
+/* yml */
+pre.language-yml {
+    background: #00000026 !important;
 }
