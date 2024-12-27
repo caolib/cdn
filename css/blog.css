@@ -100,3 +100,8 @@ mark {
 pre.language-yml {
     background: #00000026 !important;
 }
+
+/* 文章标题 */
+a.article-title {
+    color: var(--main-blue) !important;
+}
