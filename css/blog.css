@@ -20,6 +20,7 @@
     --monospace: monospace;
     --select-text-bg-color: #3b3e4d;
     --main-blue: #166ff3;
+    --dark-blue: #003c95;
     --main-red: #ff6b6b;
     --main-green: #2ed573;
     --main-purple: #c94ae9;
@@ -62,20 +63,16 @@ blockquote {
     border-bottom-left-radius: 0;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    margin-bottom: 16px;
-    padding: 10px 10px 10px 20px;
     font-size: 0.9em;
-    background: #ffffff;
     border-left: 5px solid var(--main-blue);
-    color: #6a737d;
-    overflow: auto;
-    -webkit-overflow-scrolling: touch;
+    box-shadow: var(--box-shadow);
 }
 
 [data-theme="dark"] blockquote {
+    border: unset;
     color: #ffffffe6;
     background: #222222;
-    border-left: 5px solid #003c95;
+    border-left: 5px solid var(--dark-blue);
     box-shadow: unset;
 }
 
@@ -89,4 +86,11 @@ blockquote {
 
 [data-theme='dark'] #article-container pre>code {
     background: var(--code--bg-color);
+}
+
+/* 高亮 */
+
+mark {
+    background: #ff0;
+    color: red;
 }
