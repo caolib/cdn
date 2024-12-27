@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'MiaoZiGuoZhiTi';
+    src: url(https://cdn.jsdelivr.net/gh/caolib/cdn@main/fonts/MiaoZi-GuoZhiTi.ttf);
+    font-display: swap;
+    font-weight: lighter;
+}
+
+:root {
+    --bg-color: #f2f2f2;
+    --code-bg-color: #282c34;
+    --text-color: #333;
+    --primary-btn-text-color: #fff;
+    --window-border: 1px solid #eee;
+    --active-file-bg-color: #eee;
+    --active-file-text-color: inherit;
+    --active-file-border-color: var(--main-red);
+    --side-bar-bg-color: var(--bg-color);
+    --item-hover-bg-color: hsla(0, 0%, 90%, .59);
+    --item-hover-text-color: var(--main-red);
+    --monospace: monospace;
+    --select-text-bg-color: #3b3e4d;
+    --main-blue: #166ff3;
+    --main-red: #ff6b6b;
+    --main-green: #2ed573;
+    --main-purple: #c94ae9;
+    --main-yellow: #f9b03d;
+    --main-font-family: "Cascadia Code", 'MiaoZiGuoZhiTi', consolas, "微软雅黑", "PingFang SC", "Microsoft YaHei", sans-serif;
+    --code--bg-color: #282c34;
+    --code--bg-color-light: #3d404e;
+    --item-bg-color-red: #f4433638;
+    --item-bg-color-blue: #42a5f542;
+    --box-shadow: 0px 4px 4px rgba(0, 0, 0, .1);
+    --transition: box-shadow 0.3s ease, transform 0.3s ease
+}
+
+a,
+tr,
+input,
+th,
+td,
+p,
+ul,
+li,
+ol,
+pre,
+span,
+div,
+textarea,
+body {
+    font-family: var(--main-font-family) !important;
+}
+
+/* 一级标题 */
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+/* 引用框 */
+blockquote {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-bottom: 16px;
+    padding: 10px 10px 10px 20px;
+    font-size: 0.9em;
+    background: #ffffff;
+    border-left: 5px solid var(--main-blue);
+    color: #6a737d;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+[data-theme="dark"] blockquote {
+    color: #ffffffe6;
+    background: #222222;
+    border-left: 5px solid #003c95;
+    box-shadow: unset;
+}
+
+
+/* 代码块 */
+#article-container pre,
+#article-container code {
+    font-size: 16px;
+    font-family: var(--main-font-family);
+}
+
+[data-theme='dark'] #article-container pre>code {
+    background: var(--code--bg-color);
+}
