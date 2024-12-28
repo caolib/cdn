@@ -105,3 +105,7 @@ pre.language-yml {
 a.article-title {
     color: var(--main-blue) !important;
 }
+
+#article-container img {
+    box-shadow: var(--box-shadow);
+}
