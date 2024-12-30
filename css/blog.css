@@ -34,6 +34,9 @@
     --transition: box-shadow 0.3s ease, transform 0.3s ease
 }
 
+code,
+kbd,
+samp,
 a,
 tr,
 input,
@@ -98,7 +101,14 @@ mark {
 
 /* yml */
 pre.language-yml {
-    background: #00000026 !important;
+    padding: 10px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: var(--box-shadow);
+}
+
+[data-theme='dark'] pre.language-yml {
+    background: var(--code--bg-color);
 }
 
 /* 文章标题 */
