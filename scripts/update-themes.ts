@@ -352,6 +352,11 @@ async function main() {
     // Map back to original list (include unknown repos if any)
     // groupList already references same objects so validGroups updates are reflected in groupList
 
+    const outputDir = path.dirname(OUTPUT_PATH);
+    if (!fs.existsSync(outputDir)) {
+        fs.mkdirSync(outputDir, { recursive: true });
+    }
+
     fs.writeFileSync(OUTPUT_PATH, JSON.stringify(groupList, null, 2));
     console.log(`\nSuccessfully wrote ${groupList.length} groups to ${OUTPUT_PATH}`);
 }
