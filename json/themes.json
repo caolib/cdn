@@ -1,114 +1,5 @@
 [
   {
-    "id": "typora/typora-default-themes",
-    "repoOwner": "typora",
-    "repoName": "typora-default-themes",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Pixyll",
-        "category": "theme",
-        "date": "2016-06-15",
-        "homepage": "https://github.com/typora/typora-default-themes",
-        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
-        "built-in": "true",
-        "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/pixyll.png",
-        "typora-root-url": "../../",
-        "id": "2016-06-15-Pixyll.md",
-        "fileName": "2016-06-15-Pixyll.md",
-        "repoOwner": "typora",
-        "repoName": "typora-default-themes"
-      },
-      {
-        "layout": "theme",
-        "title": "Gothic",
-        "category": "theme",
-        "homepage": "https://github.com/typora/typora-default-themes",
-        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
-        "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/gothic.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/gothic",
-        "id": "2016-09-17-Gothic.md",
-        "fileName": "2016-09-17-Gothic.md",
-        "repoOwner": "typora",
-        "repoName": "typora-default-themes"
-      },
-      {
-        "layout": "theme",
-        "title": "Whitey",
-        "category": "theme",
-        "homepage": "https://github.com/typora/typora-default-themes",
-        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
-        "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/whitey.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/whitey",
-        "id": "2016-06-09-Whitey.md",
-        "fileName": "2016-06-09-Whitey.md",
-        "repoOwner": "typora",
-        "repoName": "typora-default-themes"
-      },
-      {
-        "layout": "theme",
-        "title": "Newsprint",
-        "category": "theme",
-        "date": "2016-06-15",
-        "homepage": "https://github.com/typora/typora-default-themes",
-        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
-        "built-in": "true",
-        "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/newsprint.png",
-        "typora-root-url": "../../",
-        "id": "2016-06-15-Newsprint.md",
-        "fileName": "2016-06-15-Newsprint.md",
-        "repoOwner": "typora",
-        "repoName": "typora-default-themes"
-      },
-      {
-        "layout": "theme",
-        "title": "Night",
-        "category": "theme",
-        "date": "2016-06-15",
-        "homepage": "https://github.com/typora/typora-default-themes",
-        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
-        "built-in": "true",
-        "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/night.png",
-        "typora-root-url": "../../",
-        "id": "2016-06-15-Night.md",
-        "fileName": "2016-06-15-Night.md",
-        "repoOwner": "typora",
-        "repoName": "typora-default-themes"
-      },
-      {
-        "layout": "theme",
-        "title": "GitHub",
-        "category": "theme",
-        "homepage": "https://github.com/typora/typora-default-themes",
-        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
-        "built-in": "true",
-        "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/github.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/github",
-        "id": "2016-06-14-Github.md",
-        "fileName": "2016-06-14-Github.md",
-        "repoOwner": "typora",
-        "repoName": "typora-default-themes"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 123,
-      "lastCommitAt": "2025-07-25T00:39:12Z",
-      "description": "default themes used in Typora",
-      "openIssues": 8,
-      "error": false
-    }
-  },
-  {
     "id": "qqdaiyu55/engwrite-theme",
     "repoOwner": "qqdaiyu55",
     "repoName": "engwrite-theme",
@@ -140,33 +31,232 @@
     }
   },
   {
-    "id": "typora/typora-monospace-theme",
+    "id": "typora/typora-theme-gallery",
     "repoOwner": "typora",
-    "repoName": "typora-monospace-theme",
+    "repoName": "typora-theme-gallery",
     "themes": [
       {
         "layout": "theme",
-        "title": "Monospace",
+        "title": "Academic",
         "category": "theme",
-        "homepage": "https://github.com/typora/typora-monospace-theme",
-        "download": "https://github.com/typora/typora-monospace-theme/archive/master.zip",
+        "homepage": "https://github.com/typora/typora-theme-gallery",
+        "download": "https://raw.githubusercontent.com/typora/typora-theme-gallery/gh-pages/media/theme/academic/academic.zip",
         "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/monospace.png",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/academic.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/monospace",
-        "id": "2016-09-17-Monospace.md",
-        "fileName": "2016-09-17-Monospace.md",
+        "typora-copy-images-to": "../../media/theme/academic",
+        "id": "2018-01-07-Academic.md",
+        "fileName": "2018-01-07-Academic.md",
         "repoOwner": "typora",
-        "repoName": "typora-monospace-theme"
+        "repoName": "typora-theme-gallery"
+      },
+      {
+        "layout": "theme",
+        "title": "Han",
+        "category": "theme",
+        "homepage": "https://github.com/typora/typora-theme-gallery/blob/gh-pages/media/theme/han/han.css",
+        "download": "https://raw.githubusercontent.com/typora/typora-theme-gallery/gh-pages/media/theme/han/han.css",
+        "author": "typora.io",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/han.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/han",
+        "id": "2018-01-03-Han.md",
+        "fileName": "2018-01-03-Han.md",
+        "repoOwner": "typora",
+        "repoName": "typora-theme-gallery"
+      },
+      {
+        "layout": "theme",
+        "title": "Scribble",
+        "category": "theme",
+        "homepage": "https://github.com/typora/typora-theme-gallery",
+        "download": "https://github.com/typora/typora-theme-gallery/raw/gh-pages/media/theme/scribble/scribble.zip",
+        "built-in": "false",
+        "author": "typora.io",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/scribble.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/scribble",
+        "id": "2018-05-02-Scribble.md",
+        "fileName": "2018-05-02-Scribble.md",
+        "repoOwner": "typora",
+        "repoName": "typora-theme-gallery"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 41,
-      "lastCommitAt": "2020-08-17T14:56:48Z",
-      "description": "A monospace theme for Typora",
-      "license": "MIT",
-      "openIssues": 3,
+      "stars": 881,
+      "lastCommitAt": "2026-01-04T12:53:47Z",
+      "description": "Website for Typora themes",
+      "openIssues": 26,
+      "error": false
+    }
+  },
+  {
+    "id": "typora/typora-default-themes",
+    "repoOwner": "typora",
+    "repoName": "typora-default-themes",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Newsprint",
+        "category": "theme",
+        "date": "2016-06-15",
+        "homepage": "https://github.com/typora/typora-default-themes",
+        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
+        "built-in": "true",
+        "author": "typora.io",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/newsprint.png",
+        "typora-root-url": "../../",
+        "id": "2016-06-15-Newsprint.md",
+        "fileName": "2016-06-15-Newsprint.md",
+        "repoOwner": "typora",
+        "repoName": "typora-default-themes"
+      },
+      {
+        "layout": "theme",
+        "title": "Gothic",
+        "category": "theme",
+        "homepage": "https://github.com/typora/typora-default-themes",
+        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
+        "author": "typora.io",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/gothic.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/gothic",
+        "id": "2016-09-17-Gothic.md",
+        "fileName": "2016-09-17-Gothic.md",
+        "repoOwner": "typora",
+        "repoName": "typora-default-themes"
+      },
+      {
+        "layout": "theme",
+        "title": "GitHub",
+        "category": "theme",
+        "homepage": "https://github.com/typora/typora-default-themes",
+        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
+        "built-in": "true",
+        "author": "typora.io",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/github.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/github",
+        "id": "2016-06-14-Github.md",
+        "fileName": "2016-06-14-Github.md",
+        "repoOwner": "typora",
+        "repoName": "typora-default-themes"
+      },
+      {
+        "layout": "theme",
+        "title": "Pixyll",
+        "category": "theme",
+        "date": "2016-06-15",
+        "homepage": "https://github.com/typora/typora-default-themes",
+        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
+        "built-in": "true",
+        "author": "typora.io",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/pixyll.png",
+        "typora-root-url": "../../",
+        "id": "2016-06-15-Pixyll.md",
+        "fileName": "2016-06-15-Pixyll.md",
+        "repoOwner": "typora",
+        "repoName": "typora-default-themes"
+      },
+      {
+        "layout": "theme",
+        "title": "Whitey",
+        "category": "theme",
+        "homepage": "https://github.com/typora/typora-default-themes",
+        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
+        "author": "typora.io",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/whitey.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/whitey",
+        "id": "2016-06-09-Whitey.md",
+        "fileName": "2016-06-09-Whitey.md",
+        "repoOwner": "typora",
+        "repoName": "typora-default-themes"
+      },
+      {
+        "layout": "theme",
+        "title": "Night",
+        "category": "theme",
+        "date": "2016-06-15",
+        "homepage": "https://github.com/typora/typora-default-themes",
+        "download": "https://github.com/typora/typora-default-themes/archive/master.zip",
+        "built-in": "true",
+        "author": "typora.io",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/night.png",
+        "typora-root-url": "../../",
+        "id": "2016-06-15-Night.md",
+        "fileName": "2016-06-15-Night.md",
+        "repoOwner": "typora",
+        "repoName": "typora-default-themes"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 123,
+      "lastCommitAt": "2025-07-25T00:39:12Z",
+      "description": "default themes used in Typora",
+      "openIssues": 8,
+      "error": false
+    }
+  },
+  {
+    "id": "leaf-hsiao/catfish",
+    "repoOwner": "leaf-hsiao",
+    "repoName": "catfish",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Catfish",
+        "category": "theme",
+        "homepage": "https://github.com/leaf-hsiao/catfish",
+        "download": "https://github.com/leaf-hsiao/catfish/archive/master.zip",
+        "author": "Leaf Hsiao",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/catfish.png",
+        "typora-root-url": "../../",
+        "id": "2017-07-23-Catfish.md",
+        "fileName": "2017-07-23-Catfish.md",
+        "repoOwner": "leaf-hsiao",
+        "repoName": "catfish"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 111,
+      "lastCommitAt": "2020-03-02T06:56:07Z",
+      "description": "A typora markdown theme",
+      "openIssues": 1,
+      "error": false
+    }
+  },
+  {
+    "id": "typora/typora-ash-theme",
+    "repoOwner": "typora",
+    "repoName": "typora-ash-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Ash",
+        "category": "theme",
+        "homepage": "https://github.com/typora/typora-ash-theme",
+        "download": "https://github.com/typora/typora-ash-theme/archive/master.zip",
+        "built-in": "false",
+        "author": "typora.io",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ash.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/ash",
+        "id": "2017-08-27-Ash.md",
+        "fileName": "2017-08-27-Ash.md",
+        "repoOwner": "typora",
+        "repoName": "typora-ash-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 30,
+      "lastCommitAt": "2018-10-19T07:49:57Z",
+      "description": "A dark theme for Typora",
+      "openIssues": 2,
       "error": false
     }
   },
@@ -231,123 +321,33 @@
     }
   },
   {
-    "id": "leaf-hsiao/catfish",
-    "repoOwner": "leaf-hsiao",
-    "repoName": "catfish",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Catfish",
-        "category": "theme",
-        "homepage": "https://github.com/leaf-hsiao/catfish",
-        "download": "https://github.com/leaf-hsiao/catfish/archive/master.zip",
-        "author": "Leaf Hsiao",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/catfish.png",
-        "typora-root-url": "../../",
-        "id": "2017-07-23-Catfish.md",
-        "fileName": "2017-07-23-Catfish.md",
-        "repoOwner": "leaf-hsiao",
-        "repoName": "catfish"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 111,
-      "lastCommitAt": "2020-03-02T06:56:07Z",
-      "description": "A typora markdown theme",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
-    "id": "typora/typora-theme-gallery",
+    "id": "typora/typora-monospace-theme",
     "repoOwner": "typora",
-    "repoName": "typora-theme-gallery",
+    "repoName": "typora-monospace-theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "Han",
+        "title": "Monospace",
         "category": "theme",
-        "homepage": "https://github.com/typora/typora-theme-gallery/blob/gh-pages/media/theme/han/han.css",
-        "download": "https://raw.githubusercontent.com/typora/typora-theme-gallery/gh-pages/media/theme/han/han.css",
+        "homepage": "https://github.com/typora/typora-monospace-theme",
+        "download": "https://github.com/typora/typora-monospace-theme/archive/master.zip",
         "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/han.png",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/monospace.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/han",
-        "id": "2018-01-03-Han.md",
-        "fileName": "2018-01-03-Han.md",
+        "typora-copy-images-to": "../../media/theme/monospace",
+        "id": "2016-09-17-Monospace.md",
+        "fileName": "2016-09-17-Monospace.md",
         "repoOwner": "typora",
-        "repoName": "typora-theme-gallery"
-      },
-      {
-        "layout": "theme",
-        "title": "Academic",
-        "category": "theme",
-        "homepage": "https://github.com/typora/typora-theme-gallery",
-        "download": "https://raw.githubusercontent.com/typora/typora-theme-gallery/gh-pages/media/theme/academic/academic.zip",
-        "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/academic.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/academic",
-        "id": "2018-01-07-Academic.md",
-        "fileName": "2018-01-07-Academic.md",
-        "repoOwner": "typora",
-        "repoName": "typora-theme-gallery"
-      },
-      {
-        "layout": "theme",
-        "title": "Scribble",
-        "category": "theme",
-        "homepage": "https://github.com/typora/typora-theme-gallery",
-        "download": "https://github.com/typora/typora-theme-gallery/raw/gh-pages/media/theme/scribble/scribble.zip",
-        "built-in": "false",
-        "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/scribble.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/scribble",
-        "id": "2018-05-02-Scribble.md",
-        "fileName": "2018-05-02-Scribble.md",
-        "repoOwner": "typora",
-        "repoName": "typora-theme-gallery"
+        "repoName": "typora-monospace-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 881,
-      "lastCommitAt": "2026-01-04T12:53:47Z",
-      "description": "Website for Typora themes",
-      "openIssues": 26,
-      "error": false
-    }
-  },
-  {
-    "id": "typora/typora-ash-theme",
-    "repoOwner": "typora",
-    "repoName": "typora-ash-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Ash",
-        "category": "theme",
-        "homepage": "https://github.com/typora/typora-ash-theme",
-        "download": "https://github.com/typora/typora-ash-theme/archive/master.zip",
-        "built-in": "false",
-        "author": "typora.io",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ash.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/ash",
-        "id": "2017-08-27-Ash.md",
-        "fileName": "2017-08-27-Ash.md",
-        "repoOwner": "typora",
-        "repoName": "typora-ash-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 30,
-      "lastCommitAt": "2018-10-19T07:49:57Z",
-      "description": "A dark theme for Typora",
-      "openIssues": 2,
+      "stars": 41,
+      "lastCommitAt": "2020-08-17T14:56:48Z",
+      "description": "A monospace theme for Typora",
+      "license": "MIT",
+      "openIssues": 3,
       "error": false
     }
   },
@@ -415,164 +415,6 @@
     }
   },
   {
-    "id": "7ma7X/Typora-Onigiri",
-    "repoOwner": "7ma7X",
-    "repoName": "Typora-Onigiri",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Onigiri",
-        "category": "theme",
-        "homepage": "https://github.com/7ma7X/Typora-Onigiri",
-        "download": "https://github.com/7ma7X/Typora-Onigiri/blob/master/typora-theme-onigiri.zip?raw=true",
-        "built-in": "false",
-        "author": "HelloRusk",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/onigiri.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/onigiri",
-        "id": "2018-11-06-Onigiri.md",
-        "fileName": "2018-11-06-Onigiri.md",
-        "repoOwner": "7ma7X",
-        "repoName": "Typora-Onigiri"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 30,
-      "lastCommitAt": "2019-11-25T02:33:21Z",
-      "description": "Typora Theme for Japanese Texts",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "lloyd094/Typora-Law-School",
-    "repoOwner": "lloyd094",
-    "repoName": "Typora-Law-School",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Law",
-        "category": "theme",
-        "homepage": "https://github.com/lloyd094/Typora-Law-School",
-        "download": "https://github.com/lloyd094/Typora-Law-School/archive/master.zip",
-        "built-in": "false",
-        "author": "lloyd094",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/law.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/law",
-        "id": "2018-11-09-Law.md",
-        "fileName": "2018-11-09-Law.md",
-        "repoOwner": "lloyd094",
-        "repoName": "Typora-Law-School"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 36,
-      "lastCommitAt": "2020-07-20T23:09:05Z",
-      "description": "A law school outline theme for Typora.",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "lfkdsk/techo.css",
-    "repoOwner": "lfkdsk",
-    "repoName": "techo.css",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "techo",
-        "category": "theme",
-        "homepage": "https://github.com/lfkdsk/techo.css",
-        "download": "https://github.com/lfkdsk/techo.css/archive/master.zip",
-        "built-in": "false",
-        "author": "lfkdsk",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/techo.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/techo",
-        "id": "2018-11-21-Techo.md",
-        "fileName": "2018-11-21-Techo.md",
-        "repoOwner": "lfkdsk",
-        "repoName": "techo.css"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 40,
-      "lastCommitAt": "2018-02-08T01:29:56Z",
-      "description": "Typora Theme Techo",
-      "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "troennes/quartz-theme-typora",
-    "repoOwner": "troennes",
-    "repoName": "quartz-theme-typora",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Quartz",
-        "category": "theme",
-        "homepage": "https://github.com/troennes/quartz-theme-typora",
-        "download": "https://github.com/troennes/quartz-theme-typora/archive/master.zip",
-        "built-in": "false",
-        "author": "Kim Troennes",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/quartz.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/quartz",
-        "id": "2018-09-30-Quartz.md",
-        "fileName": "2018-09-30-Quartz.md",
-        "repoOwner": "troennes",
-        "repoName": "quartz-theme-typora"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 33,
-      "lastCommitAt": "2018-12-04T18:10:35Z",
-      "description": "A minimalistic theme for Typora markdown editor",
-      "license": "MIT",
-      "openIssues": 2,
-      "error": false
-    }
-  },
-  {
-    "id": "blinkfox/typora-vue-theme",
-    "repoOwner": "blinkfox",
-    "repoName": "typora-vue-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Vue",
-        "category": "theme",
-        "homepage": "https://github.com/blinkfox/typora-vue-theme",
-        "download": "https://codeload.github.com/blinkfox/typora-vue-theme/zip/master",
-        "built-in": "false",
-        "author": "blinkfox",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/vue.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/vue",
-        "id": "2018-06-01-Vue.md",
-        "fileName": "2018-06-01-Vue.md",
-        "repoOwner": "blinkfox",
-        "repoName": "typora-vue-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 964,
-      "lastCommitAt": "2023-06-01T14:29:37Z",
-      "description": "This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。",
-      "license": "Apache-2.0",
-      "openIssues": 18,
-      "error": false
-    }
-  },
-  {
     "id": "wangjs-jacky/Turing-CSS",
     "repoOwner": "wangjs-jacky",
     "repoName": "Turing-CSS",
@@ -601,103 +443,6 @@
       "description": "Typora theme inspired by the style of typewritten articles",
       "license": "MIT",
       "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "sadra/middle-east",
-    "repoOwner": "sadra",
-    "repoName": "middle-east",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Middle East",
-        "category": "theme",
-        "homepage": "https://github.com/sadra/middle-east",
-        "download": "https://github.com/sadra/middle-east/releases/latest",
-        "built-in": "false",
-        "date": "2019-04-05",
-        "author": "Sadra Isapanah Amlashi",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/middle-east.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/middle-east",
-        "id": "2019-04-05-Middle-East.md",
-        "fileName": "2019-04-05-Middle-East.md",
-        "repoOwner": "sadra",
-        "repoName": "middle-east"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 128,
-      "lastCommitAt": "2024-02-02T16:03:26Z",
-      "description": "Middle East is Typora RTL theme",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
-    "id": "aCluelessDanny/typora-theme-ursine",
-    "repoOwner": "aCluelessDanny",
-    "repoName": "typora-theme-ursine",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Ursine",
-        "category": "theme",
-        "homepage": "https://github.com/aCluelessDanny/typora-theme-ursine",
-        "download": "https://github.com/aCluelessDanny/typora-theme-ursine/releases/latest",
-        "built-in": "false",
-        "date": "2019-03-04",
-        "author": "aCluelessDanny",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ursine.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/ursine",
-        "id": "2019-03-04-Ursine.md",
-        "fileName": "2019-03-04-Ursine.md",
-        "repoOwner": "aCluelessDanny",
-        "repoName": "typora-theme-ursine"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 732,
-      "lastCommitAt": "2022-12-09T02:06:30Z",
-      "description": "A Typora theme, inspired by Bear",
-      "license": "MIT",
-      "openIssues": 7,
-      "error": false
-    }
-  },
-  {
-    "id": "IagoLast/paper",
-    "repoOwner": "IagoLast",
-    "repoName": "paper",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Paper",
-        "category": "theme",
-        "homepage": "https://github.com/IagoLast/paper",
-        "download": "https://github.com/IagoLast/paper/releases/latest",
-        "built-in": "false",
-        "date": "2019-11-16",
-        "author": "IagoLast",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/paper.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/paper",
-        "id": "2019-11-16-paper.md",
-        "fileName": "2019-11-16-paper.md",
-        "repoOwner": "IagoLast",
-        "repoName": "paper"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 189,
-      "lastCommitAt": "2021-08-11T23:08:22Z",
-      "description": "Typora theme for the academy",
-      "openIssues": 3,
       "error": false
     }
   },
@@ -767,6 +512,69 @@
     }
   },
   {
+    "id": "heisenburger/typora-theme-refine",
+    "repoOwner": "heisenburger",
+    "repoName": "typora-theme-refine",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Refine",
+        "category": "theme",
+        "homepage": "https://github.com/heisenburger/typora-theme-refine",
+        "download": "https://github.com/heisenburger/typora-theme-refine/archive/master.zip",
+        "built-in": "false",
+        "author": "heisenburger",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/refine.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/refine",
+        "id": "2019-01-11-Refine.md",
+        "fileName": "2019-01-11-Refine.md",
+        "repoOwner": "heisenburger",
+        "repoName": "typora-theme-refine"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 23,
+      "lastCommitAt": "2021-01-02T14:00:52Z",
+      "description": "A theme for Typora designed for readability",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "troennes/quartz-theme-typora",
+    "repoOwner": "troennes",
+    "repoName": "quartz-theme-typora",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Quartz",
+        "category": "theme",
+        "homepage": "https://github.com/troennes/quartz-theme-typora",
+        "download": "https://github.com/troennes/quartz-theme-typora/archive/master.zip",
+        "built-in": "false",
+        "author": "Kim Troennes",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/quartz.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/quartz",
+        "id": "2018-09-30-Quartz.md",
+        "fileName": "2018-09-30-Quartz.md",
+        "repoOwner": "troennes",
+        "repoName": "quartz-theme-typora"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 33,
+      "lastCommitAt": "2018-12-04T18:10:35Z",
+      "description": "A minimalistic theme for Typora markdown editor",
+      "license": "MIT",
+      "openIssues": 2,
+      "error": false
+    }
+  },
+  {
     "id": "lostkeys/Typora-Lostkeys-Theme",
     "repoOwner": "lostkeys",
     "repoName": "Typora-Lostkeys-Theme",
@@ -798,32 +606,287 @@
     }
   },
   {
-    "id": "heisenburger/typora-theme-refine",
-    "repoOwner": "heisenburger",
-    "repoName": "typora-theme-refine",
+    "id": "7ma7X/Typora-Onigiri",
+    "repoOwner": "7ma7X",
+    "repoName": "Typora-Onigiri",
     "themes": [
       {
         "layout": "theme",
-        "title": "Refine",
+        "title": "Onigiri",
         "category": "theme",
-        "homepage": "https://github.com/heisenburger/typora-theme-refine",
-        "download": "https://github.com/heisenburger/typora-theme-refine/archive/master.zip",
+        "homepage": "https://github.com/7ma7X/Typora-Onigiri",
+        "download": "https://github.com/7ma7X/Typora-Onigiri/blob/master/typora-theme-onigiri.zip?raw=true",
         "built-in": "false",
-        "author": "heisenburger",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/refine.png",
+        "author": "HelloRusk",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/onigiri.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/refine",
-        "id": "2019-01-11-Refine.md",
-        "fileName": "2019-01-11-Refine.md",
-        "repoOwner": "heisenburger",
-        "repoName": "typora-theme-refine"
+        "typora-copy-images-to": "../../media/theme/onigiri",
+        "id": "2018-11-06-Onigiri.md",
+        "fileName": "2018-11-06-Onigiri.md",
+        "repoOwner": "7ma7X",
+        "repoName": "Typora-Onigiri"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 23,
-      "lastCommitAt": "2021-01-02T14:00:52Z",
-      "description": "A theme for Typora designed for readability",
+      "stars": 30,
+      "lastCommitAt": "2019-11-25T02:33:21Z",
+      "description": "Typora Theme for Japanese Texts",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "aCluelessDanny/typora-theme-ursine",
+    "repoOwner": "aCluelessDanny",
+    "repoName": "typora-theme-ursine",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Ursine",
+        "category": "theme",
+        "homepage": "https://github.com/aCluelessDanny/typora-theme-ursine",
+        "download": "https://github.com/aCluelessDanny/typora-theme-ursine/releases/latest",
+        "built-in": "false",
+        "date": "2019-03-04",
+        "author": "aCluelessDanny",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ursine.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/ursine",
+        "id": "2019-03-04-Ursine.md",
+        "fileName": "2019-03-04-Ursine.md",
+        "repoOwner": "aCluelessDanny",
+        "repoName": "typora-theme-ursine"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 733,
+      "lastCommitAt": "2022-12-09T02:06:30Z",
+      "description": "A Typora theme, inspired by Bear",
+      "license": "MIT",
+      "openIssues": 7,
+      "error": false
+    }
+  },
+  {
+    "id": "IagoLast/paper",
+    "repoOwner": "IagoLast",
+    "repoName": "paper",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Paper",
+        "category": "theme",
+        "homepage": "https://github.com/IagoLast/paper",
+        "download": "https://github.com/IagoLast/paper/releases/latest",
+        "built-in": "false",
+        "date": "2019-11-16",
+        "author": "IagoLast",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/paper.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/paper",
+        "id": "2019-11-16-paper.md",
+        "fileName": "2019-11-16-paper.md",
+        "repoOwner": "IagoLast",
+        "repoName": "paper"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 189,
+      "lastCommitAt": "2021-08-11T23:08:22Z",
+      "description": "Typora theme for the academy",
+      "openIssues": 3,
+      "error": false
+    }
+  },
+  {
+    "id": "blinkfox/typora-vue-theme",
+    "repoOwner": "blinkfox",
+    "repoName": "typora-vue-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Vue",
+        "category": "theme",
+        "homepage": "https://github.com/blinkfox/typora-vue-theme",
+        "download": "https://codeload.github.com/blinkfox/typora-vue-theme/zip/master",
+        "built-in": "false",
+        "author": "blinkfox",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/vue.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/vue",
+        "id": "2018-06-01-Vue.md",
+        "fileName": "2018-06-01-Vue.md",
+        "repoOwner": "blinkfox",
+        "repoName": "typora-vue-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 964,
+      "lastCommitAt": "2023-06-01T14:29:37Z",
+      "description": "This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。",
+      "license": "Apache-2.0",
+      "openIssues": 18,
+      "error": false
+    }
+  },
+  {
+    "id": "lloyd094/Typora-Law-School",
+    "repoOwner": "lloyd094",
+    "repoName": "Typora-Law-School",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Law",
+        "category": "theme",
+        "homepage": "https://github.com/lloyd094/Typora-Law-School",
+        "download": "https://github.com/lloyd094/Typora-Law-School/archive/master.zip",
+        "built-in": "false",
+        "author": "lloyd094",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/law.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/law",
+        "id": "2018-11-09-Law.md",
+        "fileName": "2018-11-09-Law.md",
+        "repoOwner": "lloyd094",
+        "repoName": "Typora-Law-School"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 36,
+      "lastCommitAt": "2020-07-20T23:09:05Z",
+      "description": "A law school outline theme for Typora.",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "sadra/middle-east",
+    "repoOwner": "sadra",
+    "repoName": "middle-east",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Middle East",
+        "category": "theme",
+        "homepage": "https://github.com/sadra/middle-east",
+        "download": "https://github.com/sadra/middle-east/releases/latest",
+        "built-in": "false",
+        "date": "2019-04-05",
+        "author": "Sadra Isapanah Amlashi",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/middle-east.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/middle-east",
+        "id": "2019-04-05-Middle-East.md",
+        "fileName": "2019-04-05-Middle-East.md",
+        "repoOwner": "sadra",
+        "repoName": "middle-east"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 128,
+      "lastCommitAt": "2024-02-02T16:03:26Z",
+      "description": "Middle East is Typora RTL theme",
+      "openIssues": 1,
+      "error": false
+    }
+  },
+  {
+    "id": "lfkdsk/techo.css",
+    "repoOwner": "lfkdsk",
+    "repoName": "techo.css",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "techo",
+        "category": "theme",
+        "homepage": "https://github.com/lfkdsk/techo.css",
+        "download": "https://github.com/lfkdsk/techo.css/archive/master.zip",
+        "built-in": "false",
+        "author": "lfkdsk",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/techo.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/techo",
+        "id": "2018-11-21-Techo.md",
+        "fileName": "2018-11-21-Techo.md",
+        "repoOwner": "lfkdsk",
+        "repoName": "techo.css"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 40,
+      "lastCommitAt": "2018-02-08T01:29:56Z",
+      "description": "Typora Theme Techo",
+      "license": "MIT",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "BillChen2K/typora-theme-next",
+    "repoOwner": "BillChen2K",
+    "repoName": "typora-theme-next",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "NexT",
+        "category": "theme",
+        "homepage": "https://github.com/BillChen2K/typora-theme-next",
+        "download": "https://github.com/BillChen2K/typora-theme-next/releases/latest",
+        "built-in": "false",
+        "author": "Bill Chen",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/next.jpg",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/next",
+        "id": "2020-04-24-NexT.md",
+        "fileName": "2020-04-24-NexT.md",
+        "repoOwner": "BillChen2K",
+        "repoName": "typora-theme-next"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 183,
+      "lastCommitAt": "2021-11-30T12:01:50Z",
+      "description": "A theme for Typora, inspired by hexo theme NexT.",
+      "openIssues": 5,
+      "error": false
+    }
+  },
+  {
+    "id": "evgo2017/typora-theme-orange-heart",
+    "repoOwner": "evgo2017",
+    "repoName": "typora-theme-orange-heart",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "OrangeHeart",
+        "category": "theme",
+        "homepage": "https://github.com/evgo2017/typora-theme-orange-heart",
+        "download": "https://github.com/evgo2017/typora-theme-orange-heart",
+        "built-in": "false",
+        "author": "evgo2017",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/orangeheart.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/orangeheart",
+        "id": "2020-06-14-OrangeHeart.md",
+        "fileName": "2020-06-14-OrangeHeart.md",
+        "repoOwner": "evgo2017",
+        "repoName": "typora-theme-orange-heart"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 230,
+      "lastCommitAt": "2025-07-31T07:34:13Z",
+      "description": "A Typora Theme - 一个 Typora 主题",
+      "license": "MIT",
       "openIssues": 0,
       "error": false
     }
@@ -861,102 +924,6 @@
     }
   },
   {
-    "id": "evgo2017/typora-theme-orange-heart",
-    "repoOwner": "evgo2017",
-    "repoName": "typora-theme-orange-heart",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "OrangeHeart",
-        "category": "theme",
-        "homepage": "https://github.com/evgo2017/typora-theme-orange-heart",
-        "download": "https://github.com/evgo2017/typora-theme-orange-heart",
-        "built-in": "false",
-        "author": "evgo2017",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/orangeheart.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/orangeheart",
-        "id": "2020-06-14-OrangeHeart.md",
-        "fileName": "2020-06-14-OrangeHeart.md",
-        "repoOwner": "evgo2017",
-        "repoName": "typora-theme-orange-heart"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 230,
-      "lastCommitAt": "2025-07-31T07:34:13Z",
-      "description": "A Typora Theme - 一个 Typora 主题",
-      "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "hliu202/typora-purple-theme",
-    "repoOwner": "hliu202",
-    "repoName": "typora-purple-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Purple",
-        "category": "theme",
-        "homepage": "https://github.com/hliu202/typora-purple-theme",
-        "download": "https://github.com/hliu202/typora-purple-theme/releases/latest",
-        "built-in": "false",
-        "author": "Hao Liu",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/purple.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/purple",
-        "id": "2020-08-31-Purple.md",
-        "fileName": "2020-08-31-Purple.md",
-        "repoOwner": "hliu202",
-        "repoName": "typora-purple-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 490,
-      "lastCommitAt": "2024-03-04T06:20:04Z",
-      "description": "A purple theme for Typora",
-      "license": "MIT",
-      "openIssues": 5,
-      "error": false
-    }
-  },
-  {
-    "id": "xypnox/xydark-typora",
-    "repoOwner": "xypnox",
-    "repoName": "xydark-typora",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Xydark",
-        "category": "theme",
-        "homepage": "https://github.com/xypnox/xydark-typora",
-        "download": "https://github.com/xypnox/xydark-typora/releases/download/v0.2/theme.zip",
-        "built-in": "false",
-        "author": "xypnox",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/xydark.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/xydark",
-        "id": "2020-03-25-Xydark.md",
-        "fileName": "2020-03-25-Xydark.md",
-        "repoOwner": "xypnox",
-        "repoName": "xydark-typora"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 34,
-      "lastCommitAt": "2020-11-25T14:59:58Z",
-      "description": "A dark theme for Typora",
-      "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
     "id": "Akash-Panigrahi/typora-saffron-theme",
     "repoOwner": "Akash-Panigrahi",
     "repoName": "typora-saffron-theme",
@@ -989,63 +956,34 @@
     }
   },
   {
-    "id": "oileurre/interface",
-    "repoOwner": "oileurre",
-    "repoName": "interface",
+    "id": "MarMomento/typora-mo-theme",
+    "repoOwner": "MarMomento",
+    "repoName": "typora-mo-theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "interface",
+        "title": "Mo",
         "category": "theme",
-        "homepage": "https://github.com/oileurre/interface",
-        "download": "https://github.com/oileurre/interface/archive/master.zip",
+        "homepage": "https://github.com/MarMomento/typora-mo-theme",
+        "download": "https://github.com/MarMomento/typora-mo-theme/releases/latest",
         "built-in": "false",
-        "author": "Oïleurre",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/interface.png",
+        "author": "Momento",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/mo.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/interface",
-        "id": "2020-06-09-interface.md",
-        "fileName": "2020-06-09-interface.md",
-        "repoOwner": "oileurre",
-        "repoName": "interface"
+        "typora-copy-images-to": "../../media/theme/mo",
+        "id": "2020-07-28-Mo.md",
+        "fileName": "2020-07-28-Mo.md",
+        "repoOwner": "MarMomento",
+        "repoName": "typora-mo-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 0,
-      "lastCommitAt": "",
-      "isNotFound": true,
-      "error": false
-    }
-  },
-  {
-    "id": "BillChen2K/typora-theme-next",
-    "repoOwner": "BillChen2K",
-    "repoName": "typora-theme-next",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "NexT",
-        "category": "theme",
-        "homepage": "https://github.com/BillChen2K/typora-theme-next",
-        "download": "https://github.com/BillChen2K/typora-theme-next/releases/latest",
-        "built-in": "false",
-        "author": "Bill Chen",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/next.jpg",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/next",
-        "id": "2020-04-24-NexT.md",
-        "fileName": "2020-04-24-NexT.md",
-        "repoOwner": "BillChen2K",
-        "repoName": "typora-theme-next"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 183,
-      "lastCommitAt": "2021-11-30T12:01:50Z",
-      "description": "A theme for Typora, inspired by hexo theme NexT.",
-      "openIssues": 5,
+      "stars": 76,
+      "lastCommitAt": "2023-01-10T04:30:47Z",
+      "description": "a theme for typora",
+      "license": "MIT",
+      "openIssues": 4,
       "error": false
     }
   },
@@ -1082,34 +1020,161 @@
     }
   },
   {
-    "id": "MarMomento/typora-mo-theme",
-    "repoOwner": "MarMomento",
-    "repoName": "typora-mo-theme",
+    "id": "adesurirey/typora-notes-dark-theme",
+    "repoOwner": "adesurirey",
+    "repoName": "typora-notes-dark-theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "Mo",
+        "title": "Notes Dark",
         "category": "theme",
-        "homepage": "https://github.com/MarMomento/typora-mo-theme",
-        "download": "https://github.com/MarMomento/typora-mo-theme/releases/latest",
-        "built-in": "false",
-        "author": "Momento",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/mo.png",
+        "homepage": "https://github.com/adesurirey/typora-notes-dark-theme",
+        "download": "https://github.com/adesurirey/typora-notes-dark-theme/archive/master.zip",
+        "author": "Arnaud de Surirey",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/notes-dark.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/mo",
-        "id": "2020-07-28-Mo.md",
-        "fileName": "2020-07-28-Mo.md",
-        "repoOwner": "MarMomento",
-        "repoName": "typora-mo-theme"
+        "typora-copy-images-to": "../../media/theme/notes-dark",
+        "id": "2020-07-22-Notes-Dark.md",
+        "fileName": "2020-07-22-Notes-Dark.md",
+        "repoOwner": "adesurirey",
+        "repoName": "typora-notes-dark-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 76,
-      "lastCommitAt": "2023-01-10T04:30:47Z",
-      "description": "a theme for typora",
+      "stars": 111,
+      "lastCommitAt": "2024-01-09T08:32:35Z",
+      "description": "Typora dark theme inspired by Apple Notes",
       "license": "MIT",
-      "openIssues": 4,
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "xypnox/xydark-typora",
+    "repoOwner": "xypnox",
+    "repoName": "xydark-typora",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Xydark",
+        "category": "theme",
+        "homepage": "https://github.com/xypnox/xydark-typora",
+        "download": "https://github.com/xypnox/xydark-typora/releases/download/v0.2/theme.zip",
+        "built-in": "false",
+        "author": "xypnox",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/xydark.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/xydark",
+        "id": "2020-03-25-Xydark.md",
+        "fileName": "2020-03-25-Xydark.md",
+        "repoOwner": "xypnox",
+        "repoName": "xydark-typora"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 34,
+      "lastCommitAt": "2020-11-25T14:59:58Z",
+      "description": "A dark theme for Typora",
+      "license": "MIT",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "sweatran/typora-onedark-theme",
+    "repoOwner": "sweatran",
+    "repoName": "typora-onedark-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "OneDark",
+        "category": "theme",
+        "homepage": "https://github.com/sweatran/typora-onedark-theme",
+        "download": "https://github.com/sweatran/typora-onedark-theme/releases/latest",
+        "built-in": "false",
+        "author": "sweatran",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/onedark.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/onedark",
+        "id": "2020-03-30-OneDark.md",
+        "fileName": "2020-03-30-OneDark.md",
+        "repoOwner": "sweatran",
+        "repoName": "typora-onedark-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 189,
+      "lastCommitAt": "2021-11-07T16:50:02Z",
+      "description": "A dark theme for Typora inspired by VScode's One Dark Pro theme.",
+      "license": "GPL-3.0",
+      "openIssues": 1,
+      "error": false
+    }
+  },
+  {
+    "id": "hliu202/typora-purple-theme",
+    "repoOwner": "hliu202",
+    "repoName": "typora-purple-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Purple",
+        "category": "theme",
+        "homepage": "https://github.com/hliu202/typora-purple-theme",
+        "download": "https://github.com/hliu202/typora-purple-theme/releases/latest",
+        "built-in": "false",
+        "author": "Hao Liu",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/purple.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/purple",
+        "id": "2020-08-31-Purple.md",
+        "fileName": "2020-08-31-Purple.md",
+        "repoOwner": "hliu202",
+        "repoName": "typora-purple-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 490,
+      "lastCommitAt": "2024-03-04T06:20:04Z",
+      "description": "A purple theme for Typora",
+      "license": "MIT",
+      "openIssues": 5,
+      "error": false
+    }
+  },
+  {
+    "id": "elitistsnob/typora-cobalt-theme",
+    "repoOwner": "elitistsnob",
+    "repoName": "typora-cobalt-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Cobalt",
+        "category": "theme",
+        "homepage": "https://github.com/elitistsnob/typora-cobalt-theme",
+        "download": "https://github.com/elitistsnob/typora-cobalt-theme/releases/latest",
+        "built-in": "false",
+        "date": "2020-02-16",
+        "author": "elitistsnob",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/cobalt.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/cobalt",
+        "id": "2020-02-16-cobalt.md",
+        "fileName": "2020-02-16-cobalt.md",
+        "repoOwner": "elitistsnob",
+        "repoName": "typora-cobalt-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 396,
+      "lastCommitAt": "2021-03-09T11:31:57Z",
+      "description": "A dark theme for Typora with enhanced UI",
+      "openIssues": 19,
       "error": false
     }
   },
@@ -1169,7 +1234,7 @@
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 580,
+      "stars": 581,
       "lastCommitAt": "2025-04-05T05:54:24Z",
       "description": "Blubook, a flat typora theme.",
       "license": "Apache-2.0",
@@ -1178,33 +1243,32 @@
     }
   },
   {
-    "id": "adesurirey/typora-notes-dark-theme",
-    "repoOwner": "adesurirey",
-    "repoName": "typora-notes-dark-theme",
+    "id": "oileurre/interface",
+    "repoOwner": "oileurre",
+    "repoName": "interface",
     "themes": [
       {
         "layout": "theme",
-        "title": "Notes Dark",
+        "title": "interface",
         "category": "theme",
-        "homepage": "https://github.com/adesurirey/typora-notes-dark-theme",
-        "download": "https://github.com/adesurirey/typora-notes-dark-theme/archive/master.zip",
-        "author": "Arnaud de Surirey",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/notes-dark.png",
+        "homepage": "https://github.com/oileurre/interface",
+        "download": "https://github.com/oileurre/interface/archive/master.zip",
+        "built-in": "false",
+        "author": "Oïleurre",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/interface.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/notes-dark",
-        "id": "2020-07-22-Notes-Dark.md",
-        "fileName": "2020-07-22-Notes-Dark.md",
-        "repoOwner": "adesurirey",
-        "repoName": "typora-notes-dark-theme"
+        "typora-copy-images-to": "../../media/theme/interface",
+        "id": "2020-06-09-interface.md",
+        "fileName": "2020-06-09-interface.md",
+        "repoOwner": "oileurre",
+        "repoName": "interface"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 111,
-      "lastCommitAt": "2024-01-09T08:32:35Z",
-      "description": "Typora dark theme inspired by Apple Notes",
-      "license": "MIT",
-      "openIssues": 0,
+      "stars": 0,
+      "lastCommitAt": "",
+      "isNotFound": true,
       "error": false
     }
   },
@@ -1241,70 +1305,6 @@
     }
   },
   {
-    "id": "elitistsnob/typora-cobalt-theme",
-    "repoOwner": "elitistsnob",
-    "repoName": "typora-cobalt-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Cobalt",
-        "category": "theme",
-        "homepage": "https://github.com/elitistsnob/typora-cobalt-theme",
-        "download": "https://github.com/elitistsnob/typora-cobalt-theme/releases/latest",
-        "built-in": "false",
-        "date": "2020-02-16",
-        "author": "elitistsnob",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/cobalt.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/cobalt",
-        "id": "2020-02-16-cobalt.md",
-        "fileName": "2020-02-16-cobalt.md",
-        "repoOwner": "elitistsnob",
-        "repoName": "typora-cobalt-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 396,
-      "lastCommitAt": "2021-03-09T11:31:57Z",
-      "description": "A dark theme for Typora with enhanced UI",
-      "openIssues": 19,
-      "error": false
-    }
-  },
-  {
-    "id": "sweatran/typora-onedark-theme",
-    "repoOwner": "sweatran",
-    "repoName": "typora-onedark-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "OneDark",
-        "category": "theme",
-        "homepage": "https://github.com/sweatran/typora-onedark-theme",
-        "download": "https://github.com/sweatran/typora-onedark-theme/releases/latest",
-        "built-in": "false",
-        "author": "sweatran",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/onedark.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/onedark",
-        "id": "2020-03-30-OneDark.md",
-        "fileName": "2020-03-30-OneDark.md",
-        "repoOwner": "sweatran",
-        "repoName": "typora-onedark-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 189,
-      "lastCommitAt": "2021-11-07T16:50:02Z",
-      "description": "A dark theme for Typora inspired by VScode's One Dark Pro theme.",
-      "license": "GPL-3.0",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
     "id": "daodaolee/typora-scrolls",
     "repoOwner": "daodaolee",
     "repoName": "typora-scrolls",
@@ -1332,38 +1332,6 @@
       "lastCommitAt": "2021-03-01T11:16:22Z",
       "description": "A typora theme in sheepskin style💈",
       "openIssues": 4,
-      "error": false
-    }
-  },
-  {
-    "id": "kinoute/typora-github-night-theme",
-    "repoOwner": "kinoute",
-    "repoName": "typora-github-night-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "GitHub Night",
-        "category": "theme",
-        "homepage": "https://github.com/kinoute/typora-github-night-theme",
-        "download": "https://github.com/kinoute/typora-github-night-theme/releases/latest",
-        "built-in": "false",
-        "date": "2021-01-14",
-        "author": "Yann Defretin",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/github-night.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/github-night",
-        "id": "2021-01-14-Github-Night.md",
-        "fileName": "2021-01-14-Github-Night.md",
-        "repoOwner": "kinoute",
-        "repoName": "typora-github-night-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 223,
-      "lastCommitAt": "2021-10-24T12:24:39Z",
-      "description": "Dark Typora themes that reproduce the new GitHub Dark Themes as much as possible.",
-      "openIssues": 3,
       "error": false
     }
   },
@@ -1398,36 +1366,6 @@
     }
   },
   {
-    "id": "valfur03/Monokai-Theme-for-Typora",
-    "repoOwner": "valfur03",
-    "repoName": "Monokai-Theme-for-Typora",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Light Monokai",
-        "category": "theme",
-        "homepage": "https://github.com/valfur03/Monokai-Theme-for-Typora",
-        "download": "https://github.com/valfur03/Monokai-Theme-for-Typora/archive/0.1.zip",
-        "author": "valfur03",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/light-monokai.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/light-monokai",
-        "id": "2020-09-12-Light-Monokai.md",
-        "fileName": "2020-09-12-Light-Monokai.md",
-        "repoOwner": "valfur03",
-        "repoName": "Monokai-Theme-for-Typora"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 8,
-      "lastCommitAt": "2021-01-23T10:35:24Z",
-      "description": "Monokai Theme for Typora Markdown Editor",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
     "id": "gilbertohasnofb/typora-panda-theme",
     "repoOwner": "gilbertohasnofb",
     "repoName": "typora-panda-theme",
@@ -1455,134 +1393,6 @@
       "lastCommitAt": "2021-12-04T14:23:34Z",
       "description": "Panda theme for Typora",
       "license": "GPL-3.0",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "kevinzhao2233/typora-theme-pie",
-    "repoOwner": "kevinzhao2233",
-    "repoName": "typora-theme-pie",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Pie",
-        "category": "theme",
-        "homepage": "https://github.com/kevinzhao2233/typora-theme-pie",
-        "download": "https://raw.githubusercontent.com/kevinzhao2233/typora-theme-pie/master/typora-theme-pie.zip",
-        "built-in": "false",
-        "author": "Kevin Zhao",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/pie.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/pie",
-        "id": "2020-4-12-Pie.md",
-        "fileName": "2020-4-12-Pie.md",
-        "repoOwner": "kevinzhao2233",
-        "repoName": "typora-theme-pie"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 292,
-      "lastCommitAt": "2023-11-23T07:48:09Z",
-      "description": "This is a typora theme inspired by sspai.com and Misty. 一个typora主题，具有少数派和Misty的风格",
-      "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "ahanniga/typora-one-dark-pro",
-    "repoOwner": "ahanniga",
-    "repoName": "typora-one-dark-pro",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "One Dark Pro",
-        "category": "fork",
-        "homepage": "https://github.com/ahanniga/typora-one-dark-pro",
-        "download": "https://github.com/ahanniga/typora-one-dark-pro/archive/main.zip",
-        "built-in": "false",
-        "author": "A Hannigan",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/one-dark-pro-thm.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/one-dark-pro",
-        "id": "2020-12-20-one-dark-pro.md",
-        "fileName": "2020-12-20-one-dark-pro.md",
-        "repoOwner": "ahanniga",
-        "repoName": "typora-one-dark-pro"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 1,
-      "lastCommitAt": "2020-12-23T17:15:34Z",
-      "description": null,
-      "license": "MIT",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
-    "id": "sohalsdr/Rubrication-Typora",
-    "repoOwner": "sohalsdr",
-    "repoName": "Rubrication-Typora",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Rubrication",
-        "category": "theme",
-        "date": "2020-10-16",
-        "homepage": "https://github.com/sohalsdr/Rubrication-Typora",
-        "download": "https://github.com/sohalsdr/Rubrication-Typora/archive/master.zip",
-        "built-in": "false",
-        "author": "sohalsdr",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/rubrication.png",
-        "typora-root-url": "../../",
-        "id": "2020-10-16-Rubrication.md",
-        "fileName": "2020-10-16-Rubrication.md",
-        "repoOwner": "sohalsdr",
-        "repoName": "Rubrication-Typora"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 4,
-      "lastCommitAt": "2020-10-17T12:40:48Z",
-      "description": "Typora theme inspired by the style of typewritten articles",
-      "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "mcesar-rlacruz/typora-compact",
-    "repoOwner": "mcesar-rlacruz",
-    "repoName": "typora-compact",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Compact",
-        "category": "theme",
-        "homepage": "https://github.com/mcesar-rlacruz/typora-compact",
-        "download": "https://github.com/mcesar-rlacruz/typora-compact/releases",
-        "built-in": "false",
-        "author": "mcesar-rlacruz",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/compact.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/compact",
-        "id": "2021-02-20-Compact.md",
-        "fileName": "2021-02-20-Compact.md",
-        "repoOwner": "mcesar-rlacruz",
-        "repoName": "typora-compact"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 14,
-      "lastCommitAt": "2021-04-03T13:17:23Z",
-      "description": "A typora theme for the compact layout of long texts",
-      "license": "MIT",
       "openIssues": 0,
       "error": false
     }
@@ -1620,6 +1430,70 @@
     }
   },
   {
+    "id": "ahanniga/typora-one-dark-pro",
+    "repoOwner": "ahanniga",
+    "repoName": "typora-one-dark-pro",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "One Dark Pro",
+        "category": "fork",
+        "homepage": "https://github.com/ahanniga/typora-one-dark-pro",
+        "download": "https://github.com/ahanniga/typora-one-dark-pro/archive/main.zip",
+        "built-in": "false",
+        "author": "A Hannigan",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/one-dark-pro-thm.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/one-dark-pro",
+        "id": "2020-12-20-one-dark-pro.md",
+        "fileName": "2020-12-20-one-dark-pro.md",
+        "repoOwner": "ahanniga",
+        "repoName": "typora-one-dark-pro"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 1,
+      "lastCommitAt": "2020-12-23T17:15:34Z",
+      "description": null,
+      "license": "MIT",
+      "openIssues": 1,
+      "error": false
+    }
+  },
+  {
+    "id": "kevinzhao2233/typora-theme-pie",
+    "repoOwner": "kevinzhao2233",
+    "repoName": "typora-theme-pie",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Pie",
+        "category": "theme",
+        "homepage": "https://github.com/kevinzhao2233/typora-theme-pie",
+        "download": "https://raw.githubusercontent.com/kevinzhao2233/typora-theme-pie/master/typora-theme-pie.zip",
+        "built-in": "false",
+        "author": "Kevin Zhao",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/pie.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/pie",
+        "id": "2020-4-12-Pie.md",
+        "fileName": "2020-4-12-Pie.md",
+        "repoOwner": "kevinzhao2233",
+        "repoName": "typora-theme-pie"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 292,
+      "lastCommitAt": "2023-11-23T07:48:09Z",
+      "description": "This is a typora theme inspired by sspai.com and Misty. 一个typora主题，具有少数派和Misty的风格",
+      "license": "MIT",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
     "id": "ChristosBouronikos/typora-nord-theme",
     "repoOwner": "ChristosBouronikos",
     "repoName": "typora-nord-theme",
@@ -1652,63 +1526,64 @@
     }
   },
   {
-    "id": "jianmin-chen/eloquent",
-    "repoOwner": "jianmin-chen",
-    "repoName": "eloquent",
+    "id": "valfur03/Monokai-Theme-for-Typora",
+    "repoOwner": "valfur03",
+    "repoName": "Monokai-Theme-for-Typora",
     "themes": [
       {
         "layout": "theme",
-        "title": "Eloquent",
+        "title": "Light Monokai",
         "category": "theme",
-        "date": "2021-04-28",
-        "homepage": "https://github.com/jianmin-chen/eloquent",
-        "download": "https://github.com/jianmin-chen/eloquent/releases",
-        "author": "Jianmin Chen",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/eloquent.png",
+        "homepage": "https://github.com/valfur03/Monokai-Theme-for-Typora",
+        "download": "https://github.com/valfur03/Monokai-Theme-for-Typora/archive/0.1.zip",
+        "author": "valfur03",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/light-monokai.png",
         "typora-root-url": "../../",
-        "id": "2021-04-28-Eloquent.md",
-        "fileName": "2021-04-28-Eloquent.md",
-        "repoOwner": "jianmin-chen",
-        "repoName": "eloquent"
+        "typora-copy-images-to": "../../media/theme/light-monokai",
+        "id": "2020-09-12-Light-Monokai.md",
+        "fileName": "2020-09-12-Light-Monokai.md",
+        "repoOwner": "valfur03",
+        "repoName": "Monokai-Theme-for-Typora"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 13,
-      "lastCommitAt": "2021-09-25T19:18:26Z",
-      "description": "Eloquent is a Typora theme designed for writing technical books. It's minimal and easy to use!",
-      "license": "MIT",
+      "stars": 8,
+      "lastCommitAt": "2021-01-23T10:35:24Z",
+      "description": "Monokai Theme for Typora Markdown Editor",
       "openIssues": 1,
       "error": false
     }
   },
   {
-    "id": "Soanguy/typora-theme-autumnus",
-    "repoOwner": "Soanguy",
-    "repoName": "typora-theme-autumnus",
+    "id": "mcesar-rlacruz/typora-compact",
+    "repoOwner": "mcesar-rlacruz",
+    "repoName": "typora-compact",
     "themes": [
       {
         "layout": "theme",
-        "title": "Autumnus",
+        "title": "Compact",
         "category": "theme",
-        "homepage": "https://github.com/Soanguy/typora-theme-autumnus",
-        "download": "https://github.com/Soanguy/typora-theme-autumnus/releases",
-        "author": "soanguy",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/autumnus.png",
+        "homepage": "https://github.com/mcesar-rlacruz/typora-compact",
+        "download": "https://github.com/mcesar-rlacruz/typora-compact/releases",
+        "built-in": "false",
+        "author": "mcesar-rlacruz",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/compact.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/autumnus",
-        "id": "2020-10-03-autumnus.md",
-        "fileName": "2020-10-03-autumnus.md",
-        "repoOwner": "Soanguy",
-        "repoName": "typora-theme-autumnus"
+        "typora-copy-images-to": "../../media/theme/compact",
+        "id": "2021-02-20-Compact.md",
+        "fileName": "2021-02-20-Compact.md",
+        "repoOwner": "mcesar-rlacruz",
+        "repoName": "typora-compact"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 326,
-      "lastCommitAt": "2023-04-14T06:03:03Z",
-      "description": "Typora theme for 中文",
-      "openIssues": 3,
+      "stars": 14,
+      "lastCommitAt": "2021-04-03T13:17:23Z",
+      "description": "A typora theme for the compact layout of long texts",
+      "license": "MIT",
+      "openIssues": 0,
       "error": false
     }
   },
@@ -1739,6 +1614,101 @@
       "stars": 0,
       "lastCommitAt": "",
       "isNotFound": true,
+      "error": false
+    }
+  },
+  {
+    "id": "sohalsdr/Rubrication-Typora",
+    "repoOwner": "sohalsdr",
+    "repoName": "Rubrication-Typora",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Rubrication",
+        "category": "theme",
+        "date": "2020-10-16",
+        "homepage": "https://github.com/sohalsdr/Rubrication-Typora",
+        "download": "https://github.com/sohalsdr/Rubrication-Typora/archive/master.zip",
+        "built-in": "false",
+        "author": "sohalsdr",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/rubrication.png",
+        "typora-root-url": "../../",
+        "id": "2020-10-16-Rubrication.md",
+        "fileName": "2020-10-16-Rubrication.md",
+        "repoOwner": "sohalsdr",
+        "repoName": "Rubrication-Typora"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 4,
+      "lastCommitAt": "2020-10-17T12:40:48Z",
+      "description": "Typora theme inspired by the style of typewritten articles",
+      "license": "MIT",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "kinoute/typora-github-night-theme",
+    "repoOwner": "kinoute",
+    "repoName": "typora-github-night-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "GitHub Night",
+        "category": "theme",
+        "homepage": "https://github.com/kinoute/typora-github-night-theme",
+        "download": "https://github.com/kinoute/typora-github-night-theme/releases/latest",
+        "built-in": "false",
+        "date": "2021-01-14",
+        "author": "Yann Defretin",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/github-night.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/github-night",
+        "id": "2021-01-14-Github-Night.md",
+        "fileName": "2021-01-14-Github-Night.md",
+        "repoOwner": "kinoute",
+        "repoName": "typora-github-night-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 223,
+      "lastCommitAt": "2021-10-24T12:24:39Z",
+      "description": "Dark Typora themes that reproduce the new GitHub Dark Themes as much as possible.",
+      "openIssues": 3,
+      "error": false
+    }
+  },
+  {
+    "id": "jianmin-chen/eloquent",
+    "repoOwner": "jianmin-chen",
+    "repoName": "eloquent",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Eloquent",
+        "category": "theme",
+        "date": "2021-04-28",
+        "homepage": "https://github.com/jianmin-chen/eloquent",
+        "download": "https://github.com/jianmin-chen/eloquent/releases",
+        "author": "Jianmin Chen",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/eloquent.png",
+        "typora-root-url": "../../",
+        "id": "2021-04-28-Eloquent.md",
+        "fileName": "2021-04-28-Eloquent.md",
+        "repoOwner": "jianmin-chen",
+        "repoName": "eloquent"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 13,
+      "lastCommitAt": "2021-09-25T19:18:26Z",
+      "description": "Eloquent is a Typora theme designed for writing technical books. It's minimal and easy to use!",
+      "license": "MIT",
+      "openIssues": 1,
       "error": false
     }
   },
@@ -1775,124 +1745,32 @@
     }
   },
   {
-    "id": "imageslr/typora-theme-lark",
-    "repoOwner": "imageslr",
-    "repoName": "typora-theme-lark",
+    "id": "Soanguy/typora-theme-autumnus",
+    "repoOwner": "Soanguy",
+    "repoName": "typora-theme-autumnus",
     "themes": [
       {
         "layout": "theme",
-        "title": "Lark",
+        "title": "Autumnus",
         "category": "theme",
-        "homepage": "https://github.com/imageslr/typora-theme-lark",
-        "download": "https://github.com/imageslr/typora-theme-lark/releases/",
-        "author": "imageslr",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/lark.jpg",
+        "homepage": "https://github.com/Soanguy/typora-theme-autumnus",
+        "download": "https://github.com/Soanguy/typora-theme-autumnus/releases",
+        "author": "soanguy",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/autumnus.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/lark",
-        "id": "2021-06-21-Lark.md",
-        "fileName": "2021-06-21-Lark.md",
-        "repoOwner": "imageslr",
-        "repoName": "typora-theme-lark"
+        "typora-copy-images-to": "../../media/theme/autumnus",
+        "id": "2020-10-03-autumnus.md",
+        "fileName": "2020-10-03-autumnus.md",
+        "repoOwner": "Soanguy",
+        "repoName": "typora-theme-autumnus"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 52,
-      "lastCommitAt": "2022-07-23T13:06:08Z",
-      "description": "更多 Typora 主题请查看：https://github.com/imageslr/typora-theme-bear ，https://github.com/imageslr/mweb-themes",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "Teyler7/dracula-typora-theme",
-    "repoOwner": "Teyler7",
-    "repoName": "dracula-typora-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Dracula",
-        "category": "theme",
-        "homepage": "https://github.com/Teyler7/dracula-typora-theme",
-        "download": "https://github.com/Teyler7/dracula-typora-theme/archive/refs/heads/main.zip",
-        "built-in": "false",
-        "author": "Teyler7",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/dracula-typora.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/dracula",
-        "id": "2021-08-24-Dracula.md",
-        "fileName": "2021-08-24-Dracula.md",
-        "repoOwner": "Teyler7",
-        "repoName": "dracula-typora-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 17,
-      "lastCommitAt": "2025-10-31T15:55:29Z",
-      "description": "A dark theme for Typora inspired by the Dracula color scheme and Material Design.",
-      "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "d20cay/rememb20ray",
-    "repoOwner": "d20cay",
-    "repoName": "rememb20ray",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "rememb20ray",
-        "category": "theme",
-        "homepage": "https://github.com/d20cay/rememb20ray",
-        "download": "https://github.com/d20cay/rememb20ray/releases/",
-        "built-in": "false",
-        "author": "d20cay",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/rememb20ray.png",
-        "typora-root-url": "../../",
-        "id": "2021-12-16-rememb20ray.md",
-        "fileName": "2021-12-16-rememb20ray.md",
-        "repoOwner": "d20cay",
-        "repoName": "rememb20ray"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 0,
-      "lastCommitAt": "2025-09-09T17:50:07Z",
-      "description": null,
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "TEParsons/Krafty",
-    "repoOwner": "TEParsons",
-    "repoName": "Krafty",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Krafty",
-        "category": "theme",
-        "homepage": "https://teparsons.github.io/Krafty/",
-        "download": "https://github.com/TEParsons/Krafty/releases/tag/v1.1.1",
-        "author": "Todd Parsons",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/krafty.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/krafty",
-        "id": "2022-02-13-Krafty.md",
-        "fileName": "2022-02-13-Krafty.md",
-        "repoOwner": "TEParsons",
-        "repoName": "Krafty"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 21,
-      "lastCommitAt": "2023-10-18T18:34:03Z",
-      "description": "Krafty CSS theme for Typora - designed to mimic the look of a kraft notebook.",
-      "openIssues": 0,
+      "stars": 326,
+      "lastCommitAt": "2023-04-14T06:03:03Z",
+      "description": "Typora theme for 中文",
+      "openIssues": 3,
       "error": false
     }
   },
@@ -1924,6 +1802,37 @@
       "lastCommitAt": "2022-04-25T23:46:19Z",
       "description": "Theme for Typora, a Markdown editor",
       "license": "GPL-3.0",
+      "openIssues": 1,
+      "error": false
+    }
+  },
+  {
+    "id": "AntonVanke/typora-Aspartate-theme",
+    "repoOwner": "AntonVanke",
+    "repoName": "typora-Aspartate-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Aspartate",
+        "category": "theme",
+        "homepage": "https://github.com/AntonVanke/typora-Aspartate-theme",
+        "download": "https://github.com/AntonVanke/typora-Aspartate-theme/releases/",
+        "author": "AntonVanke",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/aspartate.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/aspartate",
+        "id": "2021-10-24-Aspartate.md",
+        "fileName": "2021-10-24-Aspartate.md",
+        "repoOwner": "AntonVanke",
+        "repoName": "typora-Aspartate-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 40,
+      "lastCommitAt": "2023-01-26T18:19:37Z",
+      "description": "Typora 主题: Aspartate。Typora Theme Aspartate.",
+      "license": "MIT",
       "openIssues": 1,
       "error": false
     }
@@ -1961,37 +1870,6 @@
     }
   },
   {
-    "id": "AntonVanke/typora-Aspartate-theme",
-    "repoOwner": "AntonVanke",
-    "repoName": "typora-Aspartate-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Aspartate",
-        "category": "theme",
-        "homepage": "https://github.com/AntonVanke/typora-Aspartate-theme",
-        "download": "https://github.com/AntonVanke/typora-Aspartate-theme/releases/",
-        "author": "AntonVanke",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/aspartate.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/aspartate",
-        "id": "2021-10-24-Aspartate.md",
-        "fileName": "2021-10-24-Aspartate.md",
-        "repoOwner": "AntonVanke",
-        "repoName": "typora-Aspartate-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 40,
-      "lastCommitAt": "2023-01-26T18:19:37Z",
-      "description": "Typora 主题: Aspartate。Typora Theme Aspartate.",
-      "license": "MIT",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
     "id": "AntonVanke/typora-mlike-theme",
     "repoOwner": "AntonVanke",
     "repoName": "typora-mlike-theme",
@@ -2019,97 +1897,6 @@
       "description": "A typora theme.  一个 Typora 主题",
       "license": "MIT",
       "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "Beanie127/typora-ChocolateBox-theme",
-    "repoOwner": "Beanie127",
-    "repoName": "typora-ChocolateBox-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Chocolate Box",
-        "category": "theme",
-        "homepage": "https://github.com/Beanie127/typora-ChocolateBox-theme",
-        "download": "https://github.com/Beanie127/typora-ChocolateBox-theme/tree/main/latest",
-        "author": "Beanie127",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/chocolatebox-thumb.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/chocolatebox",
-        "id": "2021-12-17-ChocolateBox.md",
-        "fileName": "2021-12-17-ChocolateBox.md",
-        "repoOwner": "Beanie127",
-        "repoName": "typora-ChocolateBox-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 17,
-      "lastCommitAt": "2021-12-17T17:18:19Z",
-      "description": "Chocolate Box theme for Typora",
-      "license": "MIT",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
-    "id": "imageslr/typora-theme-bear",
-    "repoOwner": "imageslr",
-    "repoName": "typora-theme-bear",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Bear",
-        "category": "theme",
-        "homepage": "https://github.com/imageslr/typora-theme-bear",
-        "download": "https://github.com/imageslr/typora-theme-bear/releases/",
-        "author": "imageslr",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/bear.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/bear",
-        "id": "2021-07-03-Bear.md",
-        "fileName": "2021-07-03-Bear.md",
-        "repoOwner": "imageslr",
-        "repoName": "typora-theme-bear"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 87,
-      "lastCommitAt": "2022-07-23T13:06:03Z",
-      "description": "一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear.",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "mingluosunyi/typora-theme-ava-diana",
-    "repoOwner": "mingluosunyi",
-    "repoName": "typora-theme-ava-diana",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "ava-diana",
-        "category": "theme",
-        "homepage": "https://github.com/mingluosunyi/typora-theme-ava-diana",
-        "download": "https://github.com/mingluosunyi/typora-theme-ava-diana/archive/refs/heads/main.zip",
-        "built-in": "false",
-        "author": "mingluosunyi",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ava-diana.png",
-        "typora-root-url": "../../",
-        "id": "2021-9-12-Ava-diana.md",
-        "fileName": "2021-9-12-Ava-diana.md",
-        "repoOwner": "mingluosunyi",
-        "repoName": "typora-theme-ava-diana"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 27,
-      "lastCommitAt": "2021-09-22T13:17:30Z",
-      "description": null,
-      "openIssues": 5,
       "error": false
     }
   },
@@ -2205,248 +1992,215 @@
     }
   },
   {
-    "id": "AntonVanke/Typora-Cement-Theme",
-    "repoOwner": "AntonVanke",
-    "repoName": "Typora-Cement-Theme",
+    "id": "Beanie127/typora-ChocolateBox-theme",
+    "repoOwner": "Beanie127",
+    "repoName": "typora-ChocolateBox-theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "Cement",
+        "title": "Chocolate Box",
         "category": "theme",
-        "homepage": "https://github.com/AntonVanke/Typora-Cement-Theme",
-        "download": "https://github.com/AntonVanke/Typora-Cement-Theme/releases/",
-        "author": "AntonVanke",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/cement.png",
+        "homepage": "https://github.com/Beanie127/typora-ChocolateBox-theme",
+        "download": "https://github.com/Beanie127/typora-ChocolateBox-theme/tree/main/latest",
+        "author": "Beanie127",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/chocolatebox-thumb.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/cement",
-        "id": "2022-09-24-Cement.md",
-        "fileName": "2022-09-24-Cement.md",
-        "repoOwner": "AntonVanke",
-        "repoName": "Typora-Cement-Theme"
+        "typora-copy-images-to": "../../media/theme/chocolatebox",
+        "id": "2021-12-17-ChocolateBox.md",
+        "fileName": "2021-12-17-ChocolateBox.md",
+        "repoOwner": "Beanie127",
+        "repoName": "typora-ChocolateBox-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 89,
-      "lastCommitAt": "2023-11-28T10:42:33Z",
-      "description": "Typora theme: Cement.",
+      "stars": 17,
+      "lastCommitAt": "2021-12-17T17:18:19Z",
+      "description": "Chocolate Box theme for Typora",
       "license": "MIT",
-      "openIssues": 5,
+      "openIssues": 1,
       "error": false
     }
   },
   {
-    "id": "XiLaiTL/typora-theme-bothview-tabbar",
-    "repoOwner": "XiLaiTL",
-    "repoName": "typora-theme-bothview-tabbar",
+    "id": "imageslr/typora-theme-bear",
+    "repoOwner": "imageslr",
+    "repoName": "typora-theme-bear",
     "themes": [
       {
         "layout": "theme",
-        "title": "BothView-TabBar",
+        "title": "Bear",
         "category": "theme",
-        "homepage": "https://github.com/XiLaiTL/typora-theme-bothview-tabbar/",
-        "download": "https://github.com/XiLaiTL/typora-theme-bothview-tabbar/releases/download/v0.0.1/typora-theme-bothview-tabbar.zip",
-        "author": "XiLaiTL",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/bothview-tabbar.jpg",
+        "homepage": "https://github.com/imageslr/typora-theme-bear",
+        "download": "https://github.com/imageslr/typora-theme-bear/releases/",
+        "author": "imageslr",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/bear.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/bothview-tabbar",
-        "id": "2022-04-22-BothView-TabBar.md",
-        "fileName": "2022-04-22-BothView-TabBar.md",
-        "repoOwner": "XiLaiTL",
-        "repoName": "typora-theme-bothview-tabbar"
+        "typora-copy-images-to": "../../media/theme/bear",
+        "id": "2021-07-03-Bear.md",
+        "fileName": "2021-07-03-Bear.md",
+        "repoOwner": "imageslr",
+        "repoName": "typora-theme-bear"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 87,
+      "lastCommitAt": "2022-07-23T13:06:03Z",
+      "description": "一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear.",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "TEParsons/Krafty",
+    "repoOwner": "TEParsons",
+    "repoName": "Krafty",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Krafty",
+        "category": "theme",
+        "homepage": "https://teparsons.github.io/Krafty/",
+        "download": "https://github.com/TEParsons/Krafty/releases/tag/v1.1.1",
+        "author": "Todd Parsons",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/krafty.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/krafty",
+        "id": "2022-02-13-Krafty.md",
+        "fileName": "2022-02-13-Krafty.md",
+        "repoOwner": "TEParsons",
+        "repoName": "Krafty"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 21,
+      "lastCommitAt": "2023-10-18T18:34:03Z",
+      "description": "Krafty CSS theme for Typora - designed to mimic the look of a kraft notebook.",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "mingluosunyi/typora-theme-ava-diana",
+    "repoOwner": "mingluosunyi",
+    "repoName": "typora-theme-ava-diana",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "ava-diana",
+        "category": "theme",
+        "homepage": "https://github.com/mingluosunyi/typora-theme-ava-diana",
+        "download": "https://github.com/mingluosunyi/typora-theme-ava-diana/archive/refs/heads/main.zip",
+        "built-in": "false",
+        "author": "mingluosunyi",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ava-diana.png",
+        "typora-root-url": "../../",
+        "id": "2021-9-12-Ava-diana.md",
+        "fileName": "2021-9-12-Ava-diana.md",
+        "repoOwner": "mingluosunyi",
+        "repoName": "typora-theme-ava-diana"
       }
     ],
     "loadingStats": false,
     "stats": {
       "stars": 27,
-      "lastCommitAt": "2025-09-22T14:42:43Z",
-      "description": "The BothView theme makes you use files list sidebar and outline sidebar together.  The TabBar theme adds tab bar to Typora like the Chrome Browser.",
-      "license": "MIT",
-      "openIssues": 2,
-      "error": false
-    }
-  },
-  {
-    "id": "adrian-fuertes/typora-notion-theme",
-    "repoOwner": "adrian-fuertes",
-    "repoName": "typora-notion-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Notion",
-        "category": "theme",
-        "homepage": "https://github.com/adrian-fuertes/typora-notion-theme",
-        "download": "https://github.com/adrian-fuertes/typora-notion-theme/releases",
-        "author": "AdrianFuertes",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/notion-thumb.jpg",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/notion",
-        "id": "2022-02-13-Notion.md",
-        "fileName": "2022-02-13-Notion.md",
-        "repoOwner": "adrian-fuertes",
-        "repoName": "typora-notion-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 289,
-      "lastCommitAt": "2025-08-11T10:10:24Z",
-      "description": "A beautiful, Notion-inspired Typora theme",
-      "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "sylviaxgj/typora-forest-theme",
-    "repoOwner": "sylviaxgj",
-    "repoName": "typora-forest-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Forest",
-        "category": "theme",
-        "homepage": "https://github.com/sylviaxgj/typora-forest-theme",
-        "download": "https://github.com/sylviaxgj/typora-forest-theme/releases",
-        "author": "sylviaxgj",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/forest.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/forest",
-        "id": "2022-05-18-Forest.md",
-        "fileName": "2022-05-18-Forest.md",
-        "repoOwner": "sylviaxgj",
-        "repoName": "typora-forest-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 167,
-      "lastCommitAt": "2023-10-02T03:40:45Z",
-      "description": "another typora theme",
-      "license": "MIT",
+      "lastCommitAt": "2021-09-22T13:17:30Z",
+      "description": null,
       "openIssues": 5,
       "error": false
     }
   },
   {
-    "id": "Kinboise/typora-theme-seniva",
-    "repoOwner": "Kinboise",
-    "repoName": "typora-theme-seniva",
+    "id": "Teyler7/dracula-typora-theme",
+    "repoOwner": "Teyler7",
+    "repoName": "dracula-typora-theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "Seniva",
+        "title": "Dracula",
         "category": "theme",
-        "homepage": "https://github.com/Kinboise/typora-theme-seniva/",
-        "download": "https://github.com/Kinboise/typora-theme-seniva/releases",
+        "homepage": "https://github.com/Teyler7/dracula-typora-theme",
+        "download": "https://github.com/Teyler7/dracula-typora-theme/archive/refs/heads/main.zip",
         "built-in": "false",
-        "author": "Kinboise",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/seniva.png",
+        "author": "Teyler7",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/dracula-typora.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/seniva",
-        "id": "2022-07-04-Seniva.md",
-        "fileName": "2022-07-04-Seniva.md",
-        "repoOwner": "Kinboise",
-        "repoName": "typora-theme-seniva"
+        "typora-copy-images-to": "../../media/theme/dracula",
+        "id": "2021-08-24-Dracula.md",
+        "fileName": "2021-08-24-Dracula.md",
+        "repoOwner": "Teyler7",
+        "repoName": "dracula-typora-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 32,
-      "lastCommitAt": "2022-07-04T14:06:24Z",
-      "description": "一个Typora主题",
+      "stars": 17,
+      "lastCommitAt": "2025-10-31T15:55:29Z",
+      "description": "A dark theme for Typora inspired by the Dracula color scheme and Material Design.",
+      "license": "MIT",
       "openIssues": 0,
       "error": false
     }
   },
   {
-    "id": "andredelft/typora-tailwind-theme",
-    "repoOwner": "andredelft",
-    "repoName": "typora-tailwind-theme",
+    "id": "imageslr/typora-theme-lark",
+    "repoOwner": "imageslr",
+    "repoName": "typora-theme-lark",
     "themes": [
       {
         "layout": "theme",
-        "title": "Tailwind",
+        "title": "Lark",
         "category": "theme",
-        "homepage": "https://github.com/andredelft/typora-tailwind-theme",
-        "download": "https://github.com/andredelft/typora-tailwind-theme/releases/latest",
-        "built-in": "false",
-        "author": "André van Delft",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/tailwind.png",
+        "homepage": "https://github.com/imageslr/typora-theme-lark",
+        "download": "https://github.com/imageslr/typora-theme-lark/releases/",
+        "author": "imageslr",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/lark.jpg",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/tailwind",
-        "id": "2022-02-20-Tailwind.md",
-        "fileName": "2022-02-20-Tailwind.md",
-        "repoOwner": "andredelft",
-        "repoName": "typora-tailwind-theme"
+        "typora-copy-images-to": "../../media/theme/lark",
+        "id": "2021-06-21-Lark.md",
+        "fileName": "2021-06-21-Lark.md",
+        "repoOwner": "imageslr",
+        "repoName": "typora-theme-lark"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 107,
-      "lastCommitAt": "2025-04-26T09:45:40Z",
-      "description": "The beautiful Tailwind typography layout for Typora.",
+      "stars": 52,
+      "lastCommitAt": "2022-07-23T13:06:08Z",
+      "description": "更多 Typora 主题请查看：https://github.com/imageslr/typora-theme-bear ，https://github.com/imageslr/mweb-themes",
       "openIssues": 0,
       "error": false
     }
   },
   {
-    "id": "Erimus-Koo/theme_typora_docsify",
-    "repoOwner": "Erimus-Koo",
-    "repoName": "theme_typora_docsify",
+    "id": "d20cay/rememb20ray",
+    "repoOwner": "d20cay",
+    "repoName": "rememb20ray",
     "themes": [
       {
         "layout": "theme",
-        "title": "Typora Docsify",
+        "title": "rememb20ray",
         "category": "theme",
-        "homepage": "https://github.com/Erimus-Koo/theme_typora_docsify",
-        "download": "https://github.com/Erimus-Koo/theme_typora_docsify/releases",
-        "author": "Erimus",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/typora_docsify.png",
-        "typora-root-url": "../../",
-        "id": "2022-07-24-Typora-Docsify.md",
-        "fileName": "2022-07-24-Typora-Docsify.md",
-        "repoOwner": "Erimus-Koo",
-        "repoName": "theme_typora_docsify"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 55,
-      "lastCommitAt": "2023-10-18T05:05:23Z",
-      "description": "A theme that present SAME STYLE in Typora and Docsify.",
-      "openIssues": 8,
-      "error": false
-    }
-  },
-  {
-    "id": "jinghu-moon/typora-see-yue-theme",
-    "repoOwner": "jinghu-moon",
-    "repoName": "typora-see-yue-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "See Yue",
-        "category": "theme",
-        "homepage": "https://github.com/jinghu-moon/typora-see-yue-theme",
-        "download": "https://github.com/jinghu-moon/typora-see-yue-theme/releases/download/v1.0/typora-see-yue-theme.zip",
+        "homepage": "https://github.com/d20cay/rememb20ray",
+        "download": "https://github.com/d20cay/rememb20ray/releases/",
         "built-in": "false",
-        "author": "jinghu-moon",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/see-yue.png",
+        "author": "d20cay",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/rememb20ray.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/see-yue",
-        "id": "2022-03-27-see-yue.md",
-        "fileName": "2022-03-27-see-yue.md",
-        "repoOwner": "jinghu-moon",
-        "repoName": "typora-see-yue-theme"
+        "id": "2021-12-16-rememb20ray.md",
+        "fileName": "2021-12-16-rememb20ray.md",
+        "repoOwner": "d20cay",
+        "repoName": "rememb20ray"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 247,
-      "lastCommitAt": "2023-05-01T14:50:50Z",
-      "description": "See Yue 系列主题是一个自定义样式极多、简约、充满细节的 Typora 主题。（The See Yue series theme is a Typora theme with a plethora of custom styles, minimalism, and full of details.）",
-      "openIssues": 11,
+      "stars": 0,
+      "lastCommitAt": "2025-09-09T17:50:07Z",
+      "description": null,
+      "openIssues": 0,
       "error": false
     }
   },
@@ -2515,6 +2269,37 @@
     }
   },
   {
+    "id": "Kinboise/typora-theme-seniva",
+    "repoOwner": "Kinboise",
+    "repoName": "typora-theme-seniva",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Seniva",
+        "category": "theme",
+        "homepage": "https://github.com/Kinboise/typora-theme-seniva/",
+        "download": "https://github.com/Kinboise/typora-theme-seniva/releases",
+        "built-in": "false",
+        "author": "Kinboise",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/seniva.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/seniva",
+        "id": "2022-07-04-Seniva.md",
+        "fileName": "2022-07-04-Seniva.md",
+        "repoOwner": "Kinboise",
+        "repoName": "typora-theme-seniva"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 32,
+      "lastCommitAt": "2022-07-04T14:06:24Z",
+      "description": "一个Typora主题",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
     "id": "jhildenbiddle/typora-themeable",
     "repoOwner": "jhildenbiddle",
     "repoName": "typora-themeable",
@@ -2541,6 +2326,161 @@
       "description": "A clean, customizable, typography-focused theme for the markdown editor, Typora.",
       "license": "MIT",
       "openIssues": 3,
+      "error": false
+    }
+  },
+  {
+    "id": "sylviaxgj/typora-forest-theme",
+    "repoOwner": "sylviaxgj",
+    "repoName": "typora-forest-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Forest",
+        "category": "theme",
+        "homepage": "https://github.com/sylviaxgj/typora-forest-theme",
+        "download": "https://github.com/sylviaxgj/typora-forest-theme/releases",
+        "author": "sylviaxgj",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/forest.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/forest",
+        "id": "2022-05-18-Forest.md",
+        "fileName": "2022-05-18-Forest.md",
+        "repoOwner": "sylviaxgj",
+        "repoName": "typora-forest-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 167,
+      "lastCommitAt": "2023-10-02T03:40:45Z",
+      "description": "another typora theme",
+      "license": "MIT",
+      "openIssues": 5,
+      "error": false
+    }
+  },
+  {
+    "id": "hh-lanyue/typora-theme-lanyue",
+    "repoOwner": "hh-lanyue",
+    "repoName": "typora-theme-lanyue",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "LanYue",
+        "category": "theme",
+        "homepage": "https://github.com/hh-lanyue/typora-theme-lanyue",
+        "download": "https://github.com/hh-lanyue/typora-theme-lanyue",
+        "built-in": "false",
+        "author": "hh-lanyue",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/lanyue.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/lanyue/",
+        "id": "2022-05-17-LanYue.md",
+        "fileName": "2022-05-17-LanYue.md",
+        "repoOwner": "hh-lanyue",
+        "repoName": "typora-theme-lanyue"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 21,
+      "lastCommitAt": "2022-05-17T09:07:39Z",
+      "description": "typora 主题——lanyue",
+      "openIssues": 1,
+      "error": false
+    }
+  },
+  {
+    "id": "XiLaiTL/typora-theme-bothview-tabbar",
+    "repoOwner": "XiLaiTL",
+    "repoName": "typora-theme-bothview-tabbar",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "BothView-TabBar",
+        "category": "theme",
+        "homepage": "https://github.com/XiLaiTL/typora-theme-bothview-tabbar/",
+        "download": "https://github.com/XiLaiTL/typora-theme-bothview-tabbar/releases/download/v0.0.1/typora-theme-bothview-tabbar.zip",
+        "author": "XiLaiTL",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/bothview-tabbar.jpg",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/bothview-tabbar",
+        "id": "2022-04-22-BothView-TabBar.md",
+        "fileName": "2022-04-22-BothView-TabBar.md",
+        "repoOwner": "XiLaiTL",
+        "repoName": "typora-theme-bothview-tabbar"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 27,
+      "lastCommitAt": "2025-09-22T14:42:43Z",
+      "description": "The BothView theme makes you use files list sidebar and outline sidebar together.  The TabBar theme adds tab bar to Typora like the Chrome Browser.",
+      "license": "MIT",
+      "openIssues": 2,
+      "error": false
+    }
+  },
+  {
+    "id": "jinghu-moon/typora-see-yue-theme",
+    "repoOwner": "jinghu-moon",
+    "repoName": "typora-see-yue-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "See Yue",
+        "category": "theme",
+        "homepage": "https://github.com/jinghu-moon/typora-see-yue-theme",
+        "download": "https://github.com/jinghu-moon/typora-see-yue-theme/releases/download/v1.0/typora-see-yue-theme.zip",
+        "built-in": "false",
+        "author": "jinghu-moon",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/see-yue.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/see-yue",
+        "id": "2022-03-27-see-yue.md",
+        "fileName": "2022-03-27-see-yue.md",
+        "repoOwner": "jinghu-moon",
+        "repoName": "typora-see-yue-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 247,
+      "lastCommitAt": "2023-05-01T14:50:50Z",
+      "description": "See Yue 系列主题是一个自定义样式极多、简约、充满细节的 Typora 主题。（The See Yue series theme is a Typora theme with a plethora of custom styles, minimalism, and full of details.）",
+      "openIssues": 11,
+      "error": false
+    }
+  },
+  {
+    "id": "adrian-fuertes/typora-notion-theme",
+    "repoOwner": "adrian-fuertes",
+    "repoName": "typora-notion-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Notion",
+        "category": "theme",
+        "homepage": "https://github.com/adrian-fuertes/typora-notion-theme",
+        "download": "https://github.com/adrian-fuertes/typora-notion-theme/releases",
+        "author": "AdrianFuertes",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/notion-thumb.jpg",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/notion",
+        "id": "2022-02-13-Notion.md",
+        "fileName": "2022-02-13-Notion.md",
+        "repoOwner": "adrian-fuertes",
+        "repoName": "typora-notion-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 289,
+      "lastCommitAt": "2025-08-11T10:10:24Z",
+      "description": "A beautiful, Notion-inspired Typora theme",
+      "license": "MIT",
+      "openIssues": 0,
       "error": false
     }
   },
@@ -2577,6 +2517,35 @@
     }
   },
   {
+    "id": "Erimus-Koo/theme_typora_docsify",
+    "repoOwner": "Erimus-Koo",
+    "repoName": "theme_typora_docsify",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Typora Docsify",
+        "category": "theme",
+        "homepage": "https://github.com/Erimus-Koo/theme_typora_docsify",
+        "download": "https://github.com/Erimus-Koo/theme_typora_docsify/releases",
+        "author": "Erimus",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/typora_docsify.png",
+        "typora-root-url": "../../",
+        "id": "2022-07-24-Typora-Docsify.md",
+        "fileName": "2022-07-24-Typora-Docsify.md",
+        "repoOwner": "Erimus-Koo",
+        "repoName": "theme_typora_docsify"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 55,
+      "lastCommitAt": "2023-10-18T05:05:23Z",
+      "description": "A theme that present SAME STYLE in Typora and Docsify.",
+      "openIssues": 8,
+      "error": false
+    }
+  },
+  {
     "id": "TEParsons/torillic",
     "repoOwner": "TEParsons",
     "repoName": "torillic",
@@ -2608,33 +2577,33 @@
     }
   },
   {
-    "id": "hh-lanyue/typora-theme-lanyue",
-    "repoOwner": "hh-lanyue",
-    "repoName": "typora-theme-lanyue",
+    "id": "AntonVanke/Typora-Cement-Theme",
+    "repoOwner": "AntonVanke",
+    "repoName": "Typora-Cement-Theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "LanYue",
+        "title": "Cement",
         "category": "theme",
-        "homepage": "https://github.com/hh-lanyue/typora-theme-lanyue",
-        "download": "https://github.com/hh-lanyue/typora-theme-lanyue",
-        "built-in": "false",
-        "author": "hh-lanyue",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/lanyue.png",
+        "homepage": "https://github.com/AntonVanke/Typora-Cement-Theme",
+        "download": "https://github.com/AntonVanke/Typora-Cement-Theme/releases/",
+        "author": "AntonVanke",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/cement.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/lanyue/",
-        "id": "2022-05-17-LanYue.md",
-        "fileName": "2022-05-17-LanYue.md",
-        "repoOwner": "hh-lanyue",
-        "repoName": "typora-theme-lanyue"
+        "typora-copy-images-to": "../../media/theme/cement",
+        "id": "2022-09-24-Cement.md",
+        "fileName": "2022-09-24-Cement.md",
+        "repoOwner": "AntonVanke",
+        "repoName": "Typora-Cement-Theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 21,
-      "lastCommitAt": "2022-05-17T09:07:39Z",
-      "description": "typora 主题——lanyue",
-      "openIssues": 1,
+      "stars": 89,
+      "lastCommitAt": "2023-11-28T10:42:33Z",
+      "description": "Typora theme: Cement.",
+      "license": "MIT",
+      "openIssues": 5,
       "error": false
     }
   },
@@ -2670,388 +2639,33 @@
     }
   },
   {
-    "id": "Fentaniao/Liquid",
-    "repoOwner": "Fentaniao",
-    "repoName": "Liquid",
+    "id": "andredelft/typora-tailwind-theme",
+    "repoOwner": "andredelft",
+    "repoName": "typora-tailwind-theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "Liquid",
+        "title": "Tailwind",
         "category": "theme",
-        "homepage": "https://github.com/Fentaniao/Liquid",
-        "download": "https://github.com/Fentaniao/Liquid/releases",
+        "homepage": "https://github.com/andredelft/typora-tailwind-theme",
+        "download": "https://github.com/andredelft/typora-tailwind-theme/releases/latest",
         "built-in": "false",
-        "author": "Fentaniao",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/liquid.png",
+        "author": "André van Delft",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/tailwind.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/Liquid",
-        "id": "2022-1-10-Liquid.md",
-        "fileName": "2022-1-10-Liquid.md",
-        "repoOwner": "Fentaniao",
-        "repoName": "Liquid"
+        "typora-copy-images-to": "../../media/theme/tailwind",
+        "id": "2022-02-20-Tailwind.md",
+        "fileName": "2022-02-20-Tailwind.md",
+        "repoOwner": "andredelft",
+        "repoName": "typora-tailwind-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 122,
-      "lastCommitAt": "2025-08-30T04:31:48Z",
-      "description": "A nice theme designed for Typora in Windows 11.",
-      "license": "GPL-3.0",
-      "openIssues": 3,
-      "error": false
-    }
-  },
-  {
-    "id": "author/Neil",
-    "repoOwner": "Neil",
-    "repoName": "themes",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Neil Jetbrains Mono Theme",
-        "category": "theme",
-        "homepage": "https://gitee.com/iwuyc-tools/typora-neil-theme",
-        "download": "https://gitee.com/iwuyc-tools/typora-neil-theme/repository/archive/master.zip",
-        "author": "Neil",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/neil-jetbrains-mono-theme.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/neil-jetbrains-mono",
-        "id": "2023-02-06-Neil-Jetbrains-Mono.md",
-        "fileName": "2023-02-06-Neil-Jetbrains-Mono.md"
-      }
-    ],
-    "loadingStats": false
-  },
-  {
-    "id": "imyMuyang/typora-theme-nexmoe",
-    "repoOwner": "imyMuyang",
-    "repoName": "typora-theme-nexmoe",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Nexmoe",
-        "category": "theme",
-        "homepage": "https://hanye.netlify.app/2023/typora%20%E4%B8%BB%E9%A2%98%20nexmoe/",
-        "download": "https://github.com/imyMuyang/typora-theme-nexmoe",
-        "built-in": "false",
-        "author": "imyMuyang",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/nexmoe.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/nexmoe",
-        "id": "2023-08-09-Nexmoe.md",
-        "fileName": "2023-08-09-Nexmoe.md",
-        "repoOwner": "imyMuyang",
-        "repoName": "typora-theme-nexmoe"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 42,
-      "lastCommitAt": "2023-10-15T04:28:28Z",
-      "description": "A colorful theme for Typora",
-      "license": "Apache-2.0",
+      "stars": 107,
+      "lastCommitAt": "2025-04-26T09:45:40Z",
+      "description": "The beautiful Tailwind typography layout for Typora.",
       "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "author/Leon Wong",
-    "repoOwner": "Leon Wong",
-    "repoName": "themes",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "D42ker GitHub",
-        "category": "theme",
-        "homepage": "https://l3ony2k.github.io/Typora-D42ker-Github-theme/",
-        "download": "https://raw.githubusercontent.com/l3ony2k/Typora-D42ker-Github-theme/main/d42ker-github.css",
-        "built-in": "false",
-        "author": "Leon Wong",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/d42ker.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/d42ker",
-        "id": "2023-04-08-D42ker.md",
-        "fileName": "2023-04-08-D42ker.md"
-      }
-    ],
-    "loadingStats": false
-  },
-  {
-    "id": "KicyKnoty/MuXieLi",
-    "repoOwner": "KicyKnoty",
-    "repoName": "MuXieLi",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "MuXieLi",
-        "category": "theme",
-        "homepage": "https://github.com/KicyKnoty/MuXieLi",
-        "download": "https://github.com/KicyKnoty/MuXieLi/releases/",
-        "author": "KicyKnoty",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/muxieli.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/muxieli",
-        "id": "2022-12-14-MuXieLi.md",
-        "fileName": "2022-12-14-MuXieLi.md",
-        "repoOwner": "KicyKnoty",
-        "repoName": "MuXieLi"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 0,
-      "lastCommitAt": "",
-      "isNotFound": true,
-      "error": false
-    }
-  },
-  {
-    "id": "obscurefreeman/typora_theme_valve",
-    "repoOwner": "obscurefreeman",
-    "repoName": "typora_theme_valve",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Valve",
-        "category": "theme",
-        "homepage": "https://github.com/obscurefreeman/typora_theme_valve",
-        "download": "https://github.com/obscurefreeman/typora_theme_valve/releases",
-        "built-in": "false",
-        "author": "晦涩弗里曼",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/valve.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/obscurefreeman",
-        "id": "2023-08-11-Valve.md",
-        "fileName": "2023-08-11-Valve.md",
-        "repoOwner": "obscurefreeman",
-        "repoName": "typora_theme_valve"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 5,
-      "lastCommitAt": "2023-12-09T14:21:58Z",
-      "description": null,
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "Zabriskije/Typora-GitHub-Themes",
-    "repoOwner": "Zabriskije",
-    "repoName": "Typora-GitHub-Themes",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "GitHub Dark Themes",
-        "category": "theme",
-        "homepage": "https://github.com/Zabriskije/Typora-GitHub-Themes",
-        "download": "https://github.com/Zabriskije/Typora-GitHub-Themes/archive/master.zip",
-        "author": "Zabriskije",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Typora-GitHub-Themes.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/Typora-GitHub-Themes",
-        "id": "2023-03-29-Typora-GitHub-Themes.md",
-        "fileName": "2023-03-29-Typora-GitHub-Themes.md",
-        "repoOwner": "Zabriskije",
-        "repoName": "Typora-GitHub-Themes"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 56,
-      "lastCommitAt": "2023-05-12T10:14:30Z",
-      "description": "GitHub's dark themes for Typora",
-      "license": "GPL-3.0",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "guangzhengli/typora-ladder-theme",
-    "repoOwner": "guangzhengli",
-    "repoName": "typora-ladder-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Ladder Theme",
-        "category": "theme",
-        "homepage": "https://github.com/guangzhengli/typora-ladder-theme",
-        "download": "https://github.com/guangzhengli/typora-ladder-theme/releases",
-        "author": "guangzhengli",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ladder-theme.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/ladder",
-        "id": "2023-03-01-Ladder.md",
-        "fileName": "2023-03-01-Ladder.md",
-        "repoOwner": "guangzhengli",
-        "repoName": "typora-ladder-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 269,
-      "lastCommitAt": "2024-12-17T10:28:12Z",
-      "description": "A typora theme based on LXGW font and Tailwindcss typography ",
-      "license": "MIT",
-      "openIssues": 3,
-      "error": false
-    }
-  },
-  {
-    "id": "HappySimple/Typora-theme-Happysimple",
-    "repoOwner": "HappySimple",
-    "repoName": "Typora-theme-Happysimple",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Happysimple",
-        "category": "theme",
-        "homepage": "https://github.com/HappySimple/Typora-theme-Happysimple",
-        "download": "https://github.com/HappySimple/Typora-theme-Happysimple/releases",
-        "built-in": "false",
-        "author": "HappySimple",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Happysimple.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/happysimple",
-        "id": "2023-07-10-Happysimple.md",
-        "fileName": "2023-07-10-Happysimple.md",
-        "repoOwner": "HappySimple",
-        "repoName": "Typora-theme-Happysimple"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 383,
-      "lastCommitAt": "2023-12-23T06:54:21Z",
-      "description": "一款自制的Markdown主题！",
-      "license": "MIT",
-      "openIssues": 27,
-      "error": false
-    }
-  },
-  {
-    "id": "TajangSec/Tanda-typora-theme",
-    "repoOwner": "TajangSec",
-    "repoName": "Tanda-typora-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Tanda",
-        "category": "theme",
-        "homepage": "https://github.com/TajangSec/Tanda-typora-theme",
-        "download": "https://github.com/TajangSec/Tanda-typora-theme/releases/download/1/Tanda.zip",
-        "built-in": "false",
-        "author": "TajangSec",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Tanda.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/Tanda",
-        "id": "2023-03-16-Tanda.md",
-        "fileName": "2023-03-16-Tanda.md",
-        "repoOwner": "TajangSec",
-        "repoName": "Tanda-typora-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 8,
-      "lastCommitAt": "2023-03-17T08:56:07Z",
-      "description": "简洁直观，配色风骚，太适合我自己了~",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "TEParsons/LCARS",
-    "repoOwner": "TEParsons",
-    "repoName": "LCARS",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "LCARS",
-        "category": "theme",
-        "homepage": "https://github.com/TEParsons/LCARS",
-        "download": "https://github.com/TEParsons/LCARS/releases/latest",
-        "author": "Todd Parsons",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/lcars.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/lcars",
-        "id": "2023-09-25-LCARS.md",
-        "fileName": "2023-09-25-LCARS.md",
-        "repoOwner": "TEParsons",
-        "repoName": "LCARS"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 31,
-      "lastCommitAt": "2024-10-14T22:38:10Z",
-      "description": null,
-      "license": "CC0-1.0",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "loveminimal/typora-theme-virgo",
-    "repoOwner": "loveminimal",
-    "repoName": "typora-theme-virgo",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Virgo",
-        "category": "theme",
-        "homepage": "https://github.com/loveminimal/typora-theme-virgo",
-        "download": "https://github.com/loveminimal/typora-theme-virgo/archive/master.zip",
-        "built-in": "false",
-        "author": "Jack Liu",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/virgo.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/virgo",
-        "id": "2023-04-04-Virgo.md",
-        "fileName": "2023-04-04-Virgo.md",
-        "repoOwner": "loveminimal",
-        "repoName": "typora-theme-virgo"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 15,
-      "lastCommitAt": "2023-05-16T09:16:55Z",
-      "description": "A typora theme for relative hugo.",
-      "openIssues": 3,
-      "error": false
-    }
-  },
-  {
-    "id": "YiNNx/typora-theme-lapis",
-    "repoOwner": "YiNNx",
-    "repoName": "typora-theme-lapis",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Lapis",
-        "category": "theme",
-        "homepage": "https://github.com/YiNNx/typora-theme-lapis",
-        "download": "https://github.com/YiNNx/typora-theme-lapis/releases/latest",
-        "built-in": "false",
-        "author": "YiNN",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/lapis.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/lapis",
-        "id": "2023-04-22-Lapis.md",
-        "fileName": "2023-04-22-Lapis.md",
-        "repoOwner": "YiNNx",
-        "repoName": "typora-theme-lapis"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 535,
-      "lastCommitAt": "2025-04-01T13:16:12Z",
-      "description": "🖊️ A clean Typora theme in blue tones",
-      "license": "MIT",
-      "openIssues": 7,
       "error": false
     }
   },
@@ -3088,6 +2702,91 @@
     }
   },
   {
+    "id": "author/Leon Wong",
+    "repoOwner": "Leon Wong",
+    "repoName": "themes",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "D42ker GitHub",
+        "category": "theme",
+        "homepage": "https://l3ony2k.github.io/Typora-D42ker-Github-theme/",
+        "download": "https://raw.githubusercontent.com/l3ony2k/Typora-D42ker-Github-theme/main/d42ker-github.css",
+        "built-in": "false",
+        "author": "Leon Wong",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/d42ker.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/d42ker",
+        "id": "2023-04-08-D42ker.md",
+        "fileName": "2023-04-08-D42ker.md"
+      }
+    ],
+    "loadingStats": false
+  },
+  {
+    "id": "loveminimal/typora-theme-virgo",
+    "repoOwner": "loveminimal",
+    "repoName": "typora-theme-virgo",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Virgo",
+        "category": "theme",
+        "homepage": "https://github.com/loveminimal/typora-theme-virgo",
+        "download": "https://github.com/loveminimal/typora-theme-virgo/archive/master.zip",
+        "built-in": "false",
+        "author": "Jack Liu",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/virgo.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/virgo",
+        "id": "2023-04-04-Virgo.md",
+        "fileName": "2023-04-04-Virgo.md",
+        "repoOwner": "loveminimal",
+        "repoName": "typora-theme-virgo"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 15,
+      "lastCommitAt": "2023-05-16T09:16:55Z",
+      "description": "A typora theme for relative hugo.",
+      "openIssues": 3,
+      "error": false
+    }
+  },
+  {
+    "id": "imyMuyang/typora-theme-nexmoe",
+    "repoOwner": "imyMuyang",
+    "repoName": "typora-theme-nexmoe",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Nexmoe",
+        "category": "theme",
+        "homepage": "https://hanye.netlify.app/2023/typora%20%E4%B8%BB%E9%A2%98%20nexmoe/",
+        "download": "https://github.com/imyMuyang/typora-theme-nexmoe",
+        "built-in": "false",
+        "author": "imyMuyang",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/nexmoe.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/nexmoe",
+        "id": "2023-08-09-Nexmoe.md",
+        "fileName": "2023-08-09-Nexmoe.md",
+        "repoOwner": "imyMuyang",
+        "repoName": "typora-theme-nexmoe"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 42,
+      "lastCommitAt": "2023-10-15T04:28:28Z",
+      "description": "A colorful theme for Typora",
+      "license": "Apache-2.0",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
     "id": "EvanNotFound/typora-theme-redefine",
     "repoOwner": "EvanNotFound",
     "repoName": "typora-theme-redefine",
@@ -3119,63 +2818,424 @@
     }
   },
   {
-    "id": "tdarshana/typora-ceylon-theme",
-    "repoOwner": "tdarshana",
-    "repoName": "typora-ceylon-theme",
+    "id": "YiNNx/typora-theme-lapis",
+    "repoOwner": "YiNNx",
+    "repoName": "typora-theme-lapis",
     "themes": [
       {
         "layout": "theme",
-        "title": "Ceylon",
+        "title": "Lapis",
         "category": "theme",
-        "homepage": "https://github.com/tdarshana/typora-ceylon-theme",
-        "download": "https://github.com/tdarshana/typora-ceylon-theme",
-        "author": "Tharindu Darshana",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ceylon.png",
+        "homepage": "https://github.com/YiNNx/typora-theme-lapis",
+        "download": "https://github.com/YiNNx/typora-theme-lapis/releases/latest",
+        "built-in": "false",
+        "author": "YiNN",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/lapis.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/ceylon",
-        "id": "2024-02-19-Ceylon.md",
-        "fileName": "2024-02-19-Ceylon.md",
-        "repoOwner": "tdarshana",
-        "repoName": "typora-ceylon-theme"
+        "typora-copy-images-to": "../../media/theme/lapis",
+        "id": "2023-04-22-Lapis.md",
+        "fileName": "2023-04-22-Lapis.md",
+        "repoOwner": "YiNNx",
+        "repoName": "typora-theme-lapis"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 74,
-      "lastCommitAt": "2024-07-27T05:54:17Z",
-      "description": "Ceylon - A Light Typora Theme",
-      "license": "Apache-2.0",
-      "openIssues": 4,
+      "stars": 535,
+      "lastCommitAt": "2025-04-01T13:16:12Z",
+      "description": "🖊️ A clean Typora theme in blue tones",
+      "license": "MIT",
+      "openIssues": 7,
       "error": false
     }
   },
   {
-    "id": "TEParsons/Whitelines",
+    "id": "TEParsons/LCARS",
     "repoOwner": "TEParsons",
-    "repoName": "Whitelines",
+    "repoName": "LCARS",
     "themes": [
       {
         "layout": "theme",
-        "title": "Whitelines",
+        "title": "LCARS",
         "category": "theme",
-        "homepage": "https://github.com/TEParsons/Whitelines",
-        "download": "https://github.com/TEParsons/Whitelines/releases/latest",
+        "homepage": "https://github.com/TEParsons/LCARS",
+        "download": "https://github.com/TEParsons/LCARS/releases/latest",
         "author": "Todd Parsons",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/whitelines.png",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/lcars.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/whitelines",
-        "id": "2023-09-26-Whitelines.md",
-        "fileName": "2023-09-26-Whitelines.md",
+        "typora-copy-images-to": "../../media/theme/lcars",
+        "id": "2023-09-25-LCARS.md",
+        "fileName": "2023-09-25-LCARS.md",
         "repoOwner": "TEParsons",
-        "repoName": "Whitelines"
+        "repoName": "LCARS"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 31,
+      "lastCommitAt": "2024-10-14T22:38:10Z",
+      "description": null,
+      "license": "CC0-1.0",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "author/Neil",
+    "repoOwner": "Neil",
+    "repoName": "themes",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Neil Jetbrains Mono Theme",
+        "category": "theme",
+        "homepage": "https://gitee.com/iwuyc-tools/typora-neil-theme",
+        "download": "https://gitee.com/iwuyc-tools/typora-neil-theme/repository/archive/master.zip",
+        "author": "Neil",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/neil-jetbrains-mono-theme.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/neil-jetbrains-mono",
+        "id": "2023-02-06-Neil-Jetbrains-Mono.md",
+        "fileName": "2023-02-06-Neil-Jetbrains-Mono.md"
+      }
+    ],
+    "loadingStats": false
+  },
+  {
+    "id": "TajangSec/Tanda-typora-theme",
+    "repoOwner": "TajangSec",
+    "repoName": "Tanda-typora-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Tanda",
+        "category": "theme",
+        "homepage": "https://github.com/TajangSec/Tanda-typora-theme",
+        "download": "https://github.com/TajangSec/Tanda-typora-theme/releases/download/1/Tanda.zip",
+        "built-in": "false",
+        "author": "TajangSec",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Tanda.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/Tanda",
+        "id": "2023-03-16-Tanda.md",
+        "fileName": "2023-03-16-Tanda.md",
+        "repoOwner": "TajangSec",
+        "repoName": "Tanda-typora-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 8,
+      "lastCommitAt": "2023-03-17T08:56:07Z",
+      "description": "简洁直观，配色风骚，太适合我自己了~",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "KicyKnoty/MuXieLi",
+    "repoOwner": "KicyKnoty",
+    "repoName": "MuXieLi",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "MuXieLi",
+        "category": "theme",
+        "homepage": "https://github.com/KicyKnoty/MuXieLi",
+        "download": "https://github.com/KicyKnoty/MuXieLi/releases/",
+        "author": "KicyKnoty",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/muxieli.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/muxieli",
+        "id": "2022-12-14-MuXieLi.md",
+        "fileName": "2022-12-14-MuXieLi.md",
+        "repoOwner": "KicyKnoty",
+        "repoName": "MuXieLi"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 0,
+      "lastCommitAt": "",
+      "isNotFound": true,
+      "error": false
+    }
+  },
+  {
+    "id": "HappySimple/Typora-theme-Happysimple",
+    "repoOwner": "HappySimple",
+    "repoName": "Typora-theme-Happysimple",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Happysimple",
+        "category": "theme",
+        "homepage": "https://github.com/HappySimple/Typora-theme-Happysimple",
+        "download": "https://github.com/HappySimple/Typora-theme-Happysimple/releases",
+        "built-in": "false",
+        "author": "HappySimple",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Happysimple.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/happysimple",
+        "id": "2023-07-10-Happysimple.md",
+        "fileName": "2023-07-10-Happysimple.md",
+        "repoOwner": "HappySimple",
+        "repoName": "Typora-theme-Happysimple"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 383,
+      "lastCommitAt": "2023-12-23T06:54:21Z",
+      "description": "一款自制的Markdown主题！",
+      "license": "MIT",
+      "openIssues": 27,
+      "error": false
+    }
+  },
+  {
+    "id": "guangzhengli/typora-ladder-theme",
+    "repoOwner": "guangzhengli",
+    "repoName": "typora-ladder-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Ladder Theme",
+        "category": "theme",
+        "homepage": "https://github.com/guangzhengli/typora-ladder-theme",
+        "download": "https://github.com/guangzhengli/typora-ladder-theme/releases",
+        "author": "guangzhengli",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ladder-theme.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/ladder",
+        "id": "2023-03-01-Ladder.md",
+        "fileName": "2023-03-01-Ladder.md",
+        "repoOwner": "guangzhengli",
+        "repoName": "typora-ladder-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 269,
+      "lastCommitAt": "2024-12-17T10:28:12Z",
+      "description": "A typora theme based on LXGW font and Tailwindcss typography ",
+      "license": "MIT",
+      "openIssues": 3,
+      "error": false
+    }
+  },
+  {
+    "id": "Zabriskije/Typora-GitHub-Themes",
+    "repoOwner": "Zabriskije",
+    "repoName": "Typora-GitHub-Themes",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "GitHub Dark Themes",
+        "category": "theme",
+        "homepage": "https://github.com/Zabriskije/Typora-GitHub-Themes",
+        "download": "https://github.com/Zabriskije/Typora-GitHub-Themes/archive/master.zip",
+        "author": "Zabriskije",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Typora-GitHub-Themes.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/Typora-GitHub-Themes",
+        "id": "2023-03-29-Typora-GitHub-Themes.md",
+        "fileName": "2023-03-29-Typora-GitHub-Themes.md",
+        "repoOwner": "Zabriskije",
+        "repoName": "Typora-GitHub-Themes"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 56,
+      "lastCommitAt": "2023-05-12T10:14:30Z",
+      "description": "GitHub's dark themes for Typora",
+      "license": "GPL-3.0",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "obscurefreeman/typora_theme_valve",
+    "repoOwner": "obscurefreeman",
+    "repoName": "typora_theme_valve",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Valve",
+        "category": "theme",
+        "homepage": "https://github.com/obscurefreeman/typora_theme_valve",
+        "download": "https://github.com/obscurefreeman/typora_theme_valve/releases",
+        "built-in": "false",
+        "author": "晦涩弗里曼",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/valve.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/obscurefreeman",
+        "id": "2023-08-11-Valve.md",
+        "fileName": "2023-08-11-Valve.md",
+        "repoOwner": "obscurefreeman",
+        "repoName": "typora_theme_valve"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 5,
+      "lastCommitAt": "2023-12-09T14:21:58Z",
+      "description": null,
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "Fentaniao/Liquid",
+    "repoOwner": "Fentaniao",
+    "repoName": "Liquid",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Liquid",
+        "category": "theme",
+        "homepage": "https://github.com/Fentaniao/Liquid",
+        "download": "https://github.com/Fentaniao/Liquid/releases",
+        "built-in": "false",
+        "author": "Fentaniao",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/liquid.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/Liquid",
+        "id": "2022-1-10-Liquid.md",
+        "fileName": "2022-1-10-Liquid.md",
+        "repoOwner": "Fentaniao",
+        "repoName": "Liquid"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 122,
+      "lastCommitAt": "2025-08-30T04:31:48Z",
+      "description": "A nice theme designed for Typora in Windows 11.",
+      "license": "GPL-3.0",
+      "openIssues": 3,
+      "error": false
+    }
+  },
+  {
+    "id": "easylee1996/typora-juejin-theme",
+    "repoOwner": "easylee1996",
+    "repoName": "typora-juejin-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Juejin",
+        "category": "theme",
+        "homepage": "https://github.com/easylee1996/typora-juejin-theme",
+        "download": "https://github.com/easylee1996/typora-juejin-theme",
+        "author": "easylee1996",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/juejin.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/juejin",
+        "id": "2024-01-05-Juejin.md",
+        "fileName": "2024-01-05-Juejin.md",
+        "repoOwner": "easylee1996",
+        "repoName": "typora-juejin-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
       "stars": 16,
-      "lastCommitAt": "2023-10-17T20:44:31Z",
-      "description": "A colour scheme for Sublime Text which is styled after Whitelines notepads",
-      "openIssues": 1,
+      "lastCommitAt": "2024-01-05T10:29:33Z",
+      "description": "仿照掘金小册学习界面的typora主题",
+      "license": "MIT",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "Decade-qiu/Typora-theme-Eternal",
+    "repoOwner": "Decade-qiu",
+    "repoName": "Typora-theme-Eternal",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Eternal",
+        "category": "theme",
+        "homepage": "https://decade.net.cn",
+        "download": "https://github.com/Decade-qiu/Typora-theme-Eternal",
+        "author": "decade",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Eternal.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/Eternal",
+        "id": "2024-01-04-Eternal.md",
+        "fileName": "2024-01-04-Eternal.md",
+        "repoOwner": "Decade-qiu",
+        "repoName": "Typora-theme-Eternal"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 43,
+      "lastCommitAt": "2025-03-08T06:07:06Z",
+      "description": "a theme for typora",
+      "license": "MIT",
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "Soanguy/Typora-Theme-Neumorphism",
+    "repoOwner": "Soanguy",
+    "repoName": "Typora-Theme-Neumorphism",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Typora-Theme-Neumorphism",
+        "category": "theme",
+        "homepage": "https://github.com/Soanguy/Typora-Theme-Neumorphism",
+        "download": "https://github.com/Soanguy/Typora-Theme-Neumorphism/releases/",
+        "author": "Soanguy",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Typora-Theme-Neumorphism.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/Typora-Theme-Neumorphism",
+        "id": "2023-1-11-Typora-Theme-Neumorphism.md",
+        "fileName": "2023-1-11-Typora-Theme-Neumorphism.md",
+        "repoOwner": "Soanguy",
+        "repoName": "Typora-Theme-Neumorphism"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 40,
+      "lastCommitAt": "2024-10-09T03:55:37Z",
+      "description": "新拟态风格的 typora 主题",
+      "openIssues": 2,
+      "error": false
+    }
+  },
+  {
+    "id": "KSMLC/TyporaThemeKeepStyle",
+    "repoOwner": "KSMLC",
+    "repoName": "TyporaThemeKeepStyle",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Keepstyle",
+        "category": "theme",
+        "homepage": "https://demo.ksmlc.cn/TyporaThemeKeepStyle/",
+        "download": "https://github.com/KSMLC/TyporaThemeKeepStyle/releases/tag/KeepStyle",
+        "author": "KS-MLC",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/keepstyle.png",
+        "typora-root-url": "../../",
+        "id": "2024-03-19-keepstyle.md",
+        "fileName": "2024-03-19-keepstyle.md",
+        "repoOwner": "KSMLC",
+        "repoName": "TyporaThemeKeepStyle"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 7,
+      "lastCommitAt": "2025-10-22T08:55:14Z",
+      "description": "TyporaKeepStyle主题",
+      "openIssues": 0,
       "error": false
     }
   },
@@ -3241,31 +3301,62 @@
     }
   },
   {
-    "id": "easylee1996/typora-juejin-theme",
-    "repoOwner": "easylee1996",
-    "repoName": "typora-juejin-theme",
+    "id": "tdarshana/typora-ceylon-theme",
+    "repoOwner": "tdarshana",
+    "repoName": "typora-ceylon-theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "Juejin",
+        "title": "Ceylon",
         "category": "theme",
-        "homepage": "https://github.com/easylee1996/typora-juejin-theme",
-        "download": "https://github.com/easylee1996/typora-juejin-theme",
-        "author": "easylee1996",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/juejin.png",
+        "homepage": "https://github.com/tdarshana/typora-ceylon-theme",
+        "download": "https://github.com/tdarshana/typora-ceylon-theme",
+        "author": "Tharindu Darshana",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/ceylon.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/juejin",
-        "id": "2024-01-05-Juejin.md",
-        "fileName": "2024-01-05-Juejin.md",
-        "repoOwner": "easylee1996",
-        "repoName": "typora-juejin-theme"
+        "typora-copy-images-to": "../../media/theme/ceylon",
+        "id": "2024-02-19-Ceylon.md",
+        "fileName": "2024-02-19-Ceylon.md",
+        "repoOwner": "tdarshana",
+        "repoName": "typora-ceylon-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 16,
-      "lastCommitAt": "2024-01-05T10:29:33Z",
-      "description": "仿照掘金小册学习界面的typora主题",
+      "stars": 74,
+      "lastCommitAt": "2024-07-27T05:54:17Z",
+      "description": "Ceylon - A Light Typora Theme",
+      "license": "Apache-2.0",
+      "openIssues": 4,
+      "error": false
+    }
+  },
+  {
+    "id": "linklinco/Typora-Theme-Alise",
+    "repoOwner": "linklinco",
+    "repoName": "Typora-Theme-Alise",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Alise",
+        "category": "theme",
+        "homepage": "https://github.com/linklinco/Typora-Theme-Alise",
+        "download": "https://github.com/linklinco/Typora-Theme-Alise",
+        "author": "linco",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Alise.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/Alise",
+        "id": "2023-1-23-Alise.md",
+        "fileName": "2023-1-23-Alise.md",
+        "repoOwner": "linklinco",
+        "repoName": "Typora-Theme-Alise"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 23,
+      "lastCommitAt": "2023-02-20T08:42:26Z",
+      "description": "Alise is a beautiful,easy-use markdown theme",
       "license": "MIT",
       "openIssues": 0,
       "error": false
@@ -3303,96 +3394,95 @@
     }
   },
   {
-    "id": "Decade-qiu/Typora-theme-Eternal",
-    "repoOwner": "Decade-qiu",
-    "repoName": "Typora-theme-Eternal",
+    "id": "TEParsons/Whitelines",
+    "repoOwner": "TEParsons",
+    "repoName": "Whitelines",
     "themes": [
       {
         "layout": "theme",
-        "title": "Eternal",
+        "title": "Whitelines",
         "category": "theme",
-        "homepage": "https://decade.net.cn",
-        "download": "https://github.com/Decade-qiu/Typora-theme-Eternal",
-        "author": "decade",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Eternal.png",
+        "homepage": "https://github.com/TEParsons/Whitelines",
+        "download": "https://github.com/TEParsons/Whitelines/releases/latest",
+        "author": "Todd Parsons",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/whitelines.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/Eternal",
-        "id": "2024-01-04-Eternal.md",
-        "fileName": "2024-01-04-Eternal.md",
-        "repoOwner": "Decade-qiu",
-        "repoName": "Typora-theme-Eternal"
+        "typora-copy-images-to": "../../media/theme/whitelines",
+        "id": "2023-09-26-Whitelines.md",
+        "fileName": "2023-09-26-Whitelines.md",
+        "repoOwner": "TEParsons",
+        "repoName": "Whitelines"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 43,
-      "lastCommitAt": "2025-03-08T06:07:06Z",
-      "description": "a theme for typora",
-      "license": "MIT",
-      "openIssues": 0,
+      "stars": 16,
+      "lastCommitAt": "2023-10-17T20:44:31Z",
+      "description": "A colour scheme for Sublime Text which is styled after Whitelines notepads",
+      "openIssues": 1,
       "error": false
     }
   },
   {
-    "id": "linklinco/Typora-Theme-Alise",
-    "repoOwner": "linklinco",
-    "repoName": "Typora-Theme-Alise",
+    "id": "DaYangtuo247/typora-blueTex-theme",
+    "repoOwner": "DaYangtuo247",
+    "repoName": "typora-blueTex-theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "Alise",
+        "title": "blueTex",
         "category": "theme",
-        "homepage": "https://github.com/linklinco/Typora-Theme-Alise",
-        "download": "https://github.com/linklinco/Typora-Theme-Alise",
-        "author": "linco",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Alise.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/Alise",
-        "id": "2023-1-23-Alise.md",
-        "fileName": "2023-1-23-Alise.md",
-        "repoOwner": "linklinco",
-        "repoName": "Typora-Theme-Alise"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 23,
-      "lastCommitAt": "2023-02-20T08:42:26Z",
-      "description": "Alise is a beautiful,easy-use markdown theme",
-      "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "ityme/theme.typora.iWonder",
-    "repoOwner": "ityme",
-    "repoName": "theme.typora.iWonder",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "iWonder",
-        "category": "theme",
-        "homepage": "https://github.com/ityme/theme.typora.iWonder",
-        "download": "https://github.com/ityme/theme.typora.iWonder/releases/latest",
+        "homepage": "https://github.com/DaYangtuo247/typora-blueTex-theme",
+        "download": "https://github.com/DaYangtuo247/typora-blueTex-theme/releases/latest",
         "built-in": "false",
-        "author": "ityme",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/iWonder.png",
+        "author": "DaYangtuo",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/blueTex.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/iWonder",
-        "id": "2024-03-01-iWonder.md",
-        "fileName": "2024-03-01-iWonder.md",
-        "repoOwner": "ityme",
-        "repoName": "theme.typora.iWonder"
+        "typora-copy-images-to": "../../media/theme/blueTex",
+        "id": "2024-03-31-blueTex.md",
+        "fileName": "2024-03-31-blueTex.md",
+        "repoOwner": "DaYangtuo247",
+        "repoName": "typora-blueTex-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 1,
-      "lastCommitAt": "2026-01-19T05:47:06Z",
-      "description": "一个「让文档重点更醒目」的Typora主题",
+      "stars": 24,
+      "lastCommitAt": "2025-11-29T09:45:42Z",
+      "description": "this is BlueTex",
+      "license": "MIT",
+      "openIssues": 1,
+      "error": false
+    }
+  },
+  {
+    "id": "soryu-ryouji/novel-tex-theme",
+    "repoOwner": "soryu-ryouji",
+    "repoName": "novel-tex-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "NovelTex",
+        "category": "theme",
+        "homepage": "https://github.com/soryu-ryouji/novel-tex-theme",
+        "download": "https://github.com/soryu-ryouji/novel-tex-theme",
+        "author": "soryu ryouji",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/novel-tex.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/novel-tex",
+        "id": "2024-01-21-NovelTex.md",
+        "fileName": "2024-01-21-NovelTex.md",
+        "repoOwner": "soryu-ryouji",
+        "repoName": "novel-tex-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 94,
+      "lastCommitAt": "2025-12-13T05:57:46Z",
+      "description": "This is a theme of Typora",
       "license": "GPL-3.0",
-      "openIssues": 0,
+      "openIssues": 1,
       "error": false
     }
   },
@@ -3427,32 +3517,34 @@
     }
   },
   {
-    "id": "Soanguy/Typora-Theme-Neumorphism",
-    "repoOwner": "Soanguy",
-    "repoName": "Typora-Theme-Neumorphism",
+    "id": "ityme/theme.typora.iWonder",
+    "repoOwner": "ityme",
+    "repoName": "theme.typora.iWonder",
     "themes": [
       {
         "layout": "theme",
-        "title": "Typora-Theme-Neumorphism",
+        "title": "iWonder",
         "category": "theme",
-        "homepage": "https://github.com/Soanguy/Typora-Theme-Neumorphism",
-        "download": "https://github.com/Soanguy/Typora-Theme-Neumorphism/releases/",
-        "author": "Soanguy",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Typora-Theme-Neumorphism.png",
+        "homepage": "https://github.com/ityme/theme.typora.iWonder",
+        "download": "https://github.com/ityme/theme.typora.iWonder/releases/latest",
+        "built-in": "false",
+        "author": "ityme",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/iWonder.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/Typora-Theme-Neumorphism",
-        "id": "2023-1-11-Typora-Theme-Neumorphism.md",
-        "fileName": "2023-1-11-Typora-Theme-Neumorphism.md",
-        "repoOwner": "Soanguy",
-        "repoName": "Typora-Theme-Neumorphism"
+        "typora-copy-images-to": "../../media/theme/iWonder",
+        "id": "2024-03-01-iWonder.md",
+        "fileName": "2024-03-01-iWonder.md",
+        "repoOwner": "ityme",
+        "repoName": "theme.typora.iWonder"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 40,
-      "lastCommitAt": "2024-10-09T03:55:37Z",
-      "description": "新拟态风格的 typora 主题",
-      "openIssues": 2,
+      "stars": 1,
+      "lastCommitAt": "2026-01-19T05:47:06Z",
+      "description": "一个「让文档重点更醒目」的Typora主题",
+      "license": "GPL-3.0",
+      "openIssues": 0,
       "error": false
     }
   },
@@ -3494,7 +3586,7 @@
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 476,
+      "stars": 481,
       "lastCommitAt": "2026-01-20T07:30:20Z",
       "description": "一款精心打磨过的多色多功能Typora主题",
       "license": "MIT",
@@ -3503,186 +3595,80 @@
     }
   },
   {
-    "id": "KSMLC/TyporaThemeKeepStyle",
-    "repoOwner": "KSMLC",
-    "repoName": "TyporaThemeKeepStyle",
+    "id": "guidovicino/flexoki-typora",
+    "repoOwner": "guidovicino",
+    "repoName": "flexoki-typora",
     "themes": [
       {
         "layout": "theme",
-        "title": "Keepstyle",
+        "title": "Flexoki Light",
         "category": "theme",
-        "homepage": "https://demo.ksmlc.cn/TyporaThemeKeepStyle/",
-        "download": "https://github.com/KSMLC/TyporaThemeKeepStyle/releases/tag/KeepStyle",
-        "author": "KS-MLC",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/keepstyle.png",
+        "homepage": "https://github.com/guidovicino/flexoki-typora",
+        "download": "https://github.com/guidovicino/flexoki-typora/releases/download/v1.0.1/flexoki-light.css",
+        "built-in": "false",
+        "author": "Guido Vicino",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/flexoki-light.png",
         "typora-root-url": "../../",
-        "id": "2024-03-19-keepstyle.md",
-        "fileName": "2024-03-19-keepstyle.md",
-        "repoOwner": "KSMLC",
-        "repoName": "TyporaThemeKeepStyle"
+        "typora-copy-images-to": "../../media/theme/flexoki-light",
+        "id": "2024-12-24-flexoki-light.md",
+        "fileName": "2024-12-24-flexoki-light.md",
+        "repoOwner": "guidovicino",
+        "repoName": "flexoki-typora"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 7,
-      "lastCommitAt": "2025-10-22T08:55:14Z",
-      "description": "TyporaKeepStyle主题",
+      "stars": 0,
+      "lastCommitAt": "2025-12-24T20:12:36Z",
+      "description": null,
+      "license": "NOASSERTION",
       "openIssues": 0,
       "error": false
     }
   },
   {
-    "id": "soryu-ryouji/novel-tex-theme",
-    "repoOwner": "soryu-ryouji",
-    "repoName": "novel-tex-theme",
+    "id": "obscurefreeman/typora_theme_blackout",
+    "repoOwner": "obscurefreeman",
+    "repoName": "typora_theme_blackout",
     "themes": [
       {
         "layout": "theme",
-        "title": "NovelTex",
+        "title": "Chernobyl",
         "category": "theme",
-        "homepage": "https://github.com/soryu-ryouji/novel-tex-theme",
-        "download": "https://github.com/soryu-ryouji/novel-tex-theme",
-        "author": "soryu ryouji",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/novel-tex.png",
+        "homepage": "https://obscurefreeman.github.io/typora_theme_blackout/en/chernobyl",
+        "download": "https://github.com/obscurefreeman/typora_theme_blackout/releases",
+        "author": "晦涩弗里曼",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/chernobyl.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/novel-tex",
-        "id": "2024-01-21-NovelTex.md",
-        "fileName": "2024-01-21-NovelTex.md",
-        "repoOwner": "soryu-ryouji",
-        "repoName": "novel-tex-theme"
+        "typora-copy-images-to": "../../media/theme/obscurefreeman",
+        "id": "2024-2-18-Chernobyl.md",
+        "fileName": "2024-2-18-Chernobyl.md",
+        "repoOwner": "obscurefreeman",
+        "repoName": "typora_theme_blackout"
+      },
+      {
+        "layout": "theme",
+        "title": "Blackout",
+        "category": "theme",
+        "homepage": "https://obscurefreeman.github.io/typora_theme_blackout",
+        "download": "https://github.com/obscurefreeman/typora_theme_blackout/releases",
+        "author": "晦涩弗里曼",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/blackout.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/obscurefreeman",
+        "id": "2024-2-15-Blackout.md",
+        "fileName": "2024-2-15-Blackout.md",
+        "repoOwner": "obscurefreeman",
+        "repoName": "typora_theme_blackout"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 94,
-      "lastCommitAt": "2025-12-13T05:57:46Z",
-      "description": "This is a theme of Typora",
-      "license": "GPL-3.0",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
-    "id": "DaYangtuo247/typora-blueTex-theme",
-    "repoOwner": "DaYangtuo247",
-    "repoName": "typora-blueTex-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "blueTex",
-        "category": "theme",
-        "homepage": "https://github.com/DaYangtuo247/typora-blueTex-theme",
-        "download": "https://github.com/DaYangtuo247/typora-blueTex-theme/releases/latest",
-        "built-in": "false",
-        "author": "DaYangtuo",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/blueTex.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/blueTex",
-        "id": "2024-03-31-blueTex.md",
-        "fileName": "2024-03-31-blueTex.md",
-        "repoOwner": "DaYangtuo247",
-        "repoName": "typora-blueTex-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 24,
-      "lastCommitAt": "2025-11-29T09:45:42Z",
-      "description": "this is BlueTex",
+      "stars": 227,
+      "lastCommitAt": "2025-06-02T12:29:05Z",
+      "description": "Blackout theme of typora",
       "license": "MIT",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
-    "id": "Sophomoresty/typora-theme-Jinxiu",
-    "repoOwner": "Sophomoresty",
-    "repoName": "typora-theme-Jinxiu",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Jinxiu Crimson Daily & Academic",
-        "category": "theme",
-        "homepage": "https://github.com/Sophomoresty/typora-theme-Jinxiu",
-        "download": "https://github.com/Sophomoresty/typora-theme-Jinxiu/releases",
-        "author": "Sol",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Jinxiu.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/Jinxiu",
-        "id": "2024-8-27-Jinxiu Crimson Daily & Academic.md",
-        "fileName": "2024-8-27-Jinxiu Crimson Daily & Academic.md",
-        "repoOwner": "Sophomoresty",
-        "repoName": "typora-theme-Jinxiu"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 52,
-      "lastCommitAt": "2024-08-28T07:18:33Z",
-      "description": "锦绣红 Typora 模板：大学生课程论文与日常写作的好帮手",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
-    "id": "MichaelLaw2003/amber-vertical-typora-theme",
-    "repoOwner": "MichaelLaw2003",
-    "repoName": "amber-vertical-typora-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "amber-vertical",
-        "category": "theme",
-        "homepage": "https://github.com/MichaelLaw2003/amber-vertical-typora-theme/tree/main",
-        "download": "https://github.com/MichaelLaw2003/amber-vertical-typora-theme/archive/refs/heads/main.zip",
-        "author": "MichaelLaw_HaitangStudio",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Amber.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/amber",
-        "id": "2024-4-14-Amber-Vertical.md",
-        "fileName": "2024-4-14-Amber-Vertical.md",
-        "repoOwner": "MichaelLaw2003",
-        "repoName": "amber-vertical-typora-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 40,
-      "lastCommitAt": "2024-11-11T12:33:13Z",
-      "description": "琥珀是第一款符合传统汉字纵向排版习惯的Typora主题。 Amber is the first vertical Typora theme that conforms to the tradition of ancient Chinese typography.",
-      "license": "MIT",
-      "openIssues": 5,
-      "error": false
-    }
-  },
-  {
-    "id": "SprInec/typora-spring-theme",
-    "repoOwner": "SprInec",
-    "repoName": "typora-spring-theme",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "SprIng",
-        "category": "theme",
-        "homepage": "https://github.com/SprInec/typora-spring-theme",
-        "download": "https://github.com/SprInec/typora-spring-theme/releases",
-        "author": "SprInec",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Spring.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/SprIng",
-        "id": "2024-11-13-SprIng.md",
-        "fileName": "2024-11-13-SprIng.md",
-        "repoOwner": "SprInec",
-        "repoName": "typora-spring-theme"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 179,
-      "lastCommitAt": "2026-01-08T15:33:40Z",
-      "description": "A refreshing and graceful Typora theme, like a gentle spring breeze.一款令人如沐春风的 Typora 灵动主题。",
-      "license": "MIT",
-      "openIssues": 6,
+      "openIssues": 3,
       "error": false
     }
   },
@@ -3720,38 +3706,6 @@
     }
   },
   {
-    "id": "Seeridia/typora-theme-alto",
-    "repoOwner": "Seeridia",
-    "repoName": "typora-theme-alto",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Alto",
-        "category": "theme",
-        "homepage": "https://github.com/Seeridia/typora-theme-alto",
-        "download": "https://github.com/Seeridia/typora-theme-alto/releases/latest",
-        "built-in": "false",
-        "author": "Seeridia",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/alto.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/Alto",
-        "id": "2024-10-19-Alto.md",
-        "fileName": "2024-10-19-Alto.md",
-        "repoOwner": "Seeridia",
-        "repoName": "typora-theme-alto"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 133,
-      "lastCommitAt": "2025-12-18T16:13:52Z",
-      "description": "Alto - Typora Theme  - Encounter more elegant thinking.",
-      "license": "MIT",
-      "openIssues": 1,
-      "error": false
-    }
-  },
-  {
     "id": "MadMaxChow/VLOOK",
     "repoOwner": "MadMaxChow",
     "repoName": "VLOOK",
@@ -3769,6 +3723,22 @@
         "typora-copy-images-to": "../../media/theme/vlook-hope",
         "id": "2025-01-10-VLOOK-Hope.md",
         "fileName": "2025-01-10-VLOOK-Hope.md",
+        "repoOwner": "MadMaxChow",
+        "repoName": "VLOOK"
+      },
+      {
+        "layout": "theme",
+        "title": "VLOOK™ • Geek",
+        "category": "theme",
+        "homepage": "https://github.com/MadMaxChow/VLOOK",
+        "download": "https://github.com/MadMaxChow/VLOOK/releases",
+        "built-in": "false",
+        "author": "MAX°孟兆",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/vlook-geek.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/vlook-geek",
+        "id": "2025-01-10-VLOOK-Geek.md",
+        "fileName": "2025-01-10-VLOOK-Geek.md",
         "repoOwner": "MadMaxChow",
         "repoName": "VLOOK"
       },
@@ -3801,22 +3771,6 @@
         "typora-copy-images-to": "../../media/theme/vlook-joint",
         "id": "2025-01-10-VLOOK-Joint.md",
         "fileName": "2025-01-10-VLOOK-Joint.md",
-        "repoOwner": "MadMaxChow",
-        "repoName": "VLOOK"
-      },
-      {
-        "layout": "theme",
-        "title": "VLOOK™ • Geek",
-        "category": "theme",
-        "homepage": "https://github.com/MadMaxChow/VLOOK",
-        "download": "https://github.com/MadMaxChow/VLOOK/releases",
-        "built-in": "false",
-        "author": "MAX°孟兆",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/vlook-geek.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/vlook-geek",
-        "id": "2025-01-10-VLOOK-Geek.md",
-        "fileName": "2025-01-10-VLOOK-Geek.md",
         "repoOwner": "MadMaxChow",
         "repoName": "VLOOK"
       },
@@ -3896,143 +3850,33 @@
     }
   },
   {
-    "id": "cayxc/Mdmdt",
-    "repoOwner": "cayxc",
-    "repoName": "Mdmdt",
+    "id": "MichaelLaw2003/amber-vertical-typora-theme",
+    "repoOwner": "MichaelLaw2003",
+    "repoName": "amber-vertical-typora-theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "Mdmdt",
+        "title": "amber-vertical",
         "category": "theme",
-        "homepage": "https://github.com/cayxc/Mdmdt",
-        "download": "https://github.com/cayxc/Mdmdt/tags",
-        "built-in": "false",
-        "author": "cayxc",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/mdmdt.png",
+        "homepage": "https://github.com/MichaelLaw2003/amber-vertical-typora-theme/tree/main",
+        "download": "https://github.com/MichaelLaw2003/amber-vertical-typora-theme/archive/refs/heads/main.zip",
+        "author": "MichaelLaw_HaitangStudio",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Amber.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/mdmdt",
-        "id": "2024-11-27-Mdmdt.md",
-        "fileName": "2024-11-27-Mdmdt.md",
-        "repoOwner": "cayxc",
-        "repoName": "Mdmdt"
+        "typora-copy-images-to": "../../media/theme/amber",
+        "id": "2024-4-14-Amber-Vertical.md",
+        "fileName": "2024-4-14-Amber-Vertical.md",
+        "repoOwner": "MichaelLaw2003",
+        "repoName": "amber-vertical-typora-theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 448,
-      "lastCommitAt": "2025-05-03T13:28:23Z",
-      "description": "Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.",
-      "license": "Apache-2.0",
-      "openIssues": 27,
-      "error": false
-    }
-  },
-  {
-    "id": "obscurefreeman/typora_theme_blackout",
-    "repoOwner": "obscurefreeman",
-    "repoName": "typora_theme_blackout",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Chernobyl",
-        "category": "theme",
-        "homepage": "https://obscurefreeman.github.io/typora_theme_blackout/en/chernobyl",
-        "download": "https://github.com/obscurefreeman/typora_theme_blackout/releases",
-        "author": "晦涩弗里曼",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/chernobyl.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/obscurefreeman",
-        "id": "2024-2-18-Chernobyl.md",
-        "fileName": "2024-2-18-Chernobyl.md",
-        "repoOwner": "obscurefreeman",
-        "repoName": "typora_theme_blackout"
-      },
-      {
-        "layout": "theme",
-        "title": "Blackout",
-        "category": "theme",
-        "homepage": "https://obscurefreeman.github.io/typora_theme_blackout",
-        "download": "https://github.com/obscurefreeman/typora_theme_blackout/releases",
-        "author": "晦涩弗里曼",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/blackout.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/obscurefreeman",
-        "id": "2024-2-15-Blackout.md",
-        "fileName": "2024-2-15-Blackout.md",
-        "repoOwner": "obscurefreeman",
-        "repoName": "typora_theme_blackout"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 227,
-      "lastCommitAt": "2025-06-02T12:29:05Z",
-      "description": "Blackout theme of typora",
+      "stars": 40,
+      "lastCommitAt": "2024-11-11T12:33:13Z",
+      "description": "琥珀是第一款符合传统汉字纵向排版习惯的Typora主题。 Amber is the first vertical Typora theme that conforms to the tradition of ancient Chinese typography.",
       "license": "MIT",
-      "openIssues": 3,
-      "error": false
-    }
-  },
-  {
-    "id": "guidovicino/flexoki-typora",
-    "repoOwner": "guidovicino",
-    "repoName": "flexoki-typora",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Flexoki Light",
-        "category": "theme",
-        "homepage": "https://github.com/guidovicino/flexoki-typora",
-        "download": "https://github.com/guidovicino/flexoki-typora/releases/download/v1.0.1/flexoki-light.css",
-        "built-in": "false",
-        "author": "Guido Vicino",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/flexoki-light.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/flexoki-light",
-        "id": "2024-12-24-flexoki-light.md",
-        "fileName": "2024-12-24-flexoki-light.md",
-        "repoOwner": "guidovicino",
-        "repoName": "flexoki-typora"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 0,
-      "lastCommitAt": "2025-12-24T20:12:36Z",
-      "description": null,
-      "license": "NOASSERTION",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "Bronya0/typora-theme-bronya",
-    "repoOwner": "Bronya0",
-    "repoName": "typora-theme-bronya",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "bronya",
-        "category": "theme",
-        "homepage": "https://github.com/Bronya0/typora-theme-bronya",
-        "download": "https://github.com/Bronya0/typora-theme-bronya",
-        "built-in": "false",
-        "author": "Bronya0",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/bronya.png",
-        "typora-root-url": "../../",
-        "id": "2024-1-02-bronya.md",
-        "fileName": "2024-1-02-bronya.md",
-        "repoOwner": "Bronya0",
-        "repoName": "typora-theme-bronya"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 79,
-      "lastCommitAt": "2026-01-08T07:50:44Z",
-      "description": "typora主题，叫做bronya",
-      "license": "Apache-2.0",
-      "openIssues": 3,
+      "openIssues": 5,
       "error": false
     }
   },
@@ -4069,93 +3913,187 @@
     }
   },
   {
-    "id": "channingwalton/typora-themes",
-    "repoOwner": "channingwalton",
-    "repoName": "typora-themes",
+    "id": "Sophomoresty/typora-theme-Jinxiu",
+    "repoOwner": "Sophomoresty",
+    "repoName": "typora-theme-Jinxiu",
     "themes": [
       {
         "layout": "theme",
-        "title": "Neon",
+        "title": "Jinxiu Crimson Daily & Academic",
         "category": "theme",
-        "homepage": "https://github.com/channingwalton/typora-themes",
-        "download": "https://github.com/channingwalton/typora-themes/blob/main/neon/neon.css",
-        "author": "channingwalton",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/neon.png",
+        "homepage": "https://github.com/Sophomoresty/typora-theme-Jinxiu",
+        "download": "https://github.com/Sophomoresty/typora-theme-Jinxiu/releases",
+        "author": "Sol",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Jinxiu.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/neon",
-        "id": "2025-11-22-Neon.md",
-        "fileName": "2025-11-22-Neon.md",
-        "repoOwner": "channingwalton",
-        "repoName": "typora-themes"
-      },
-      {
-        "layout": "theme",
-        "title": "Cyberpunk",
-        "category": "theme",
-        "homepage": "https://github.com/channingwalton/typora-themes",
-        "download": "https://github.com/channingwalton/typora-themes/blob/main/cyberpunk/cyberpunk.css",
-        "author": "channingwalton",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/cyberpunk.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/cyberpunk",
-        "id": "2025-11-22-Cyberpunk.md",
-        "fileName": "2025-11-22-Cyberpunk.md",
-        "repoOwner": "channingwalton",
-        "repoName": "typora-themes"
-      },
-      {
-        "layout": "theme",
-        "title": "Clean",
-        "category": "theme",
-        "homepage": "https://github.com/channingwalton/typora-themes",
-        "download": "https://github.com/channingwalton/typora-themes/tree/main/clean/clean-light.css",
-        "author": "channingwalton",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/clean.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/clean",
-        "id": "2025-11-22-Clean.md",
-        "fileName": "2025-11-22-Clean.md",
-        "repoOwner": "channingwalton",
-        "repoName": "typora-themes"
+        "typora-copy-images-to": "../../media/theme/Jinxiu",
+        "id": "2024-8-27-Jinxiu Crimson Daily & Academic.md",
+        "fileName": "2024-8-27-Jinxiu Crimson Daily & Academic.md",
+        "repoOwner": "Sophomoresty",
+        "repoName": "typora-theme-Jinxiu"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 5,
-      "lastCommitAt": "2026-01-17T10:11:47Z",
-      "description": "My typora themes",
-      "license": "MIT",
-      "openIssues": 0,
+      "stars": 52,
+      "lastCommitAt": "2024-08-28T07:18:33Z",
+      "description": "锦绣红 Typora 模板：大学生课程论文与日常写作的好帮手",
+      "openIssues": 1,
       "error": false
     }
   },
   {
-    "id": "aerandirsf/Konayuki",
-    "repoOwner": "aerandirsf",
-    "repoName": "Konayuki",
+    "id": "Bronya0/typora-theme-bronya",
+    "repoOwner": "Bronya0",
+    "repoName": "typora-theme-bronya",
     "themes": [
       {
         "layout": "theme",
-        "title": "Konayuki",
+        "title": "bronya",
         "category": "theme",
-        "homepage": "https://github.com/aerandirsf/Konayuki",
-        "download": "https://github.com/aerandirsf/Konayuki/releases",
+        "homepage": "https://github.com/Bronya0/typora-theme-bronya",
+        "download": "https://github.com/Bronya0/typora-theme-bronya",
         "built-in": "false",
-        "author": "Aerandir",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Konayuki.png",
+        "author": "Bronya0",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/bronya.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/konayuki",
-        "id": "2025-12-14-Konayuki.md",
-        "fileName": "2025-12-14-Konayuki.md",
-        "repoOwner": "aerandirsf",
-        "repoName": "Konayuki"
+        "id": "2024-1-02-bronya.md",
+        "fileName": "2024-1-02-bronya.md",
+        "repoOwner": "Bronya0",
+        "repoName": "typora-theme-bronya"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 9,
-      "lastCommitAt": "2026-01-05T19:43:54Z",
-      "description": "A Typora theme with light and dark style. 具有浅色和深色模式的 Typora 主题。",
+      "stars": 79,
+      "lastCommitAt": "2026-01-08T07:50:44Z",
+      "description": "typora主题，叫做bronya",
+      "license": "Apache-2.0",
+      "openIssues": 3,
+      "error": false
+    }
+  },
+  {
+    "id": "cayxc/Mdmdt",
+    "repoOwner": "cayxc",
+    "repoName": "Mdmdt",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Mdmdt",
+        "category": "theme",
+        "homepage": "https://github.com/cayxc/Mdmdt",
+        "download": "https://github.com/cayxc/Mdmdt/tags",
+        "built-in": "false",
+        "author": "cayxc",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/mdmdt.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/mdmdt",
+        "id": "2024-11-27-Mdmdt.md",
+        "fileName": "2024-11-27-Mdmdt.md",
+        "repoOwner": "cayxc",
+        "repoName": "Mdmdt"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 449,
+      "lastCommitAt": "2025-05-03T13:28:23Z",
+      "description": "Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.",
+      "license": "Apache-2.0",
+      "openIssues": 27,
+      "error": false
+    }
+  },
+  {
+    "id": "SprInec/typora-spring-theme",
+    "repoOwner": "SprInec",
+    "repoName": "typora-spring-theme",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "SprIng",
+        "category": "theme",
+        "homepage": "https://github.com/SprInec/typora-spring-theme",
+        "download": "https://github.com/SprInec/typora-spring-theme/releases",
+        "author": "SprInec",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Spring.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/SprIng",
+        "id": "2024-11-13-SprIng.md",
+        "fileName": "2024-11-13-SprIng.md",
+        "repoOwner": "SprInec",
+        "repoName": "typora-spring-theme"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 179,
+      "lastCommitAt": "2026-01-08T15:33:40Z",
+      "description": "A refreshing and graceful Typora theme, like a gentle spring breeze.一款令人如沐春风的 Typora 灵动主题。",
+      "license": "MIT",
+      "openIssues": 6,
+      "error": false
+    }
+  },
+  {
+    "id": "Seeridia/typora-theme-alto",
+    "repoOwner": "Seeridia",
+    "repoName": "typora-theme-alto",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Alto",
+        "category": "theme",
+        "homepage": "https://github.com/Seeridia/typora-theme-alto",
+        "download": "https://github.com/Seeridia/typora-theme-alto/releases/latest",
+        "built-in": "false",
+        "author": "Seeridia",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/alto.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/Alto",
+        "id": "2024-10-19-Alto.md",
+        "fileName": "2024-10-19-Alto.md",
+        "repoOwner": "Seeridia",
+        "repoName": "typora-theme-alto"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 133,
+      "lastCommitAt": "2025-12-18T16:13:52Z",
+      "description": "Alto - Typora Theme  - Encounter more elegant thinking.",
+      "license": "MIT",
+      "openIssues": 1,
+      "error": false
+    }
+  },
+  {
+    "id": "ShimuGuyue/typora-theme-PinkFairy",
+    "repoOwner": "ShimuGuyue",
+    "repoName": "typora-theme-PinkFairy",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "PinkFairy",
+        "category": "theme",
+        "homepage": "https://github.com/ShimuGuyue/typora-theme-PinkFairy",
+        "download": "https://github.com/ShimuGuyue/typora-theme-PinkFairy/releases/tag/PinkFairy",
+        "built-in": "false",
+        "author": "ShimuGuyue胡岩松",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/pink-fairy.png",
+        "typora-root-url": "../../",
+        "id": "2025-10-15-PinkFairy.md",
+        "fileName": "2025-10-15-PinkFairy.md",
+        "repoOwner": "ShimuGuyue",
+        "repoName": "typora-theme-PinkFairy"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 6,
+      "lastCommitAt": "2026-01-17T09:23:06Z",
+      "description": "typora 主题 - 粉色妖精",
       "license": "MIT",
       "openIssues": 0,
       "error": false
@@ -4194,95 +4132,62 @@
     }
   },
   {
-    "id": "HsiaoDeepie/typora-theme-pink-hsiao",
-    "repoOwner": "HsiaoDeepie",
-    "repoName": "typora-theme-pink-hsiao",
+    "id": "channingwalton/typora-themes",
+    "repoOwner": "channingwalton",
+    "repoName": "typora-themes",
     "themes": [
       {
         "layout": "theme",
-        "title": "Pink Hsiao",
+        "title": "Cyberpunk",
         "category": "theme",
-        "homepage": "https://github.com/HsiaoDeepie/typora-theme-pink-hsiao",
-        "download": "https://github.com/HsiaoDeepie/typora-theme-pink-hsiao",
-        "built-in": "false",
-        "author": "Hsiao Deepie",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/pink-hsiao.png",
+        "homepage": "https://github.com/channingwalton/typora-themes",
+        "download": "https://github.com/channingwalton/typora-themes/blob/main/cyberpunk/cyberpunk.css",
+        "author": "channingwalton",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/cyberpunk.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/pink-hsiao",
-        "id": "2025-12-15-PinkHsiao.md",
-        "fileName": "2025-12-15-PinkHsiao.md",
-        "repoOwner": "HsiaoDeepie",
-        "repoName": "typora-theme-pink-hsiao"
+        "typora-copy-images-to": "../../media/theme/cyberpunk",
+        "id": "2025-11-22-Cyberpunk.md",
+        "fileName": "2025-11-22-Cyberpunk.md",
+        "repoOwner": "channingwalton",
+        "repoName": "typora-themes"
+      },
+      {
+        "layout": "theme",
+        "title": "Neon",
+        "category": "theme",
+        "homepage": "https://github.com/channingwalton/typora-themes",
+        "download": "https://github.com/channingwalton/typora-themes/blob/main/neon/neon.css",
+        "author": "channingwalton",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/neon.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/neon",
+        "id": "2025-11-22-Neon.md",
+        "fileName": "2025-11-22-Neon.md",
+        "repoOwner": "channingwalton",
+        "repoName": "typora-themes"
+      },
+      {
+        "layout": "theme",
+        "title": "Clean",
+        "category": "theme",
+        "homepage": "https://github.com/channingwalton/typora-themes",
+        "download": "https://github.com/channingwalton/typora-themes/tree/main/clean/clean-light.css",
+        "author": "channingwalton",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/clean.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/clean",
+        "id": "2025-11-22-Clean.md",
+        "fileName": "2025-11-22-Clean.md",
+        "repoOwner": "channingwalton",
+        "repoName": "typora-themes"
       }
     ],
     "loadingStats": false,
     "stats": {
       "stars": 5,
-      "lastCommitAt": "2026-01-17T11:58:34Z",
-      "description": "粉色系简约风格Typora主题 / Pink minimalist style Typora theme.",
+      "lastCommitAt": "2026-01-17T10:11:47Z",
+      "description": "My typora themes",
       "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "ShimuGuyue/typora-theme-PinkFairy",
-    "repoOwner": "ShimuGuyue",
-    "repoName": "typora-theme-PinkFairy",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "PinkFairy",
-        "category": "theme",
-        "homepage": "https://github.com/ShimuGuyue/typora-theme-PinkFairy",
-        "download": "https://github.com/ShimuGuyue/typora-theme-PinkFairy/releases/tag/PinkFairy",
-        "built-in": "false",
-        "author": "ShimuGuyue胡岩松",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/pink-fairy.png",
-        "typora-root-url": "../../",
-        "id": "2025-10-15-PinkFairy.md",
-        "fileName": "2025-10-15-PinkFairy.md",
-        "repoOwner": "ShimuGuyue",
-        "repoName": "typora-theme-PinkFairy"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 6,
-      "lastCommitAt": "2026-01-17T09:23:06Z",
-      "description": "typora 主题 - 粉色妖精",
-      "license": "MIT",
-      "openIssues": 0,
-      "error": false
-    }
-  },
-  {
-    "id": "naico-wang/typora-theme-notion-onedark",
-    "repoOwner": "naico-wang",
-    "repoName": "typora-theme-notion-onedark",
-    "themes": [
-      {
-        "layout": "theme",
-        "title": "Notion OneDark",
-        "category": "theme",
-        "homepage": "https://github.com/naico-wang/typora-theme-notion-onedark",
-        "download": "https://github.com/naico-wang/typora-theme-notion-onedark",
-        "built-in": "false",
-        "author": "Naico Wang",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/notion-onedark.png",
-        "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/notion-onedark",
-        "id": "2025-05-17-Notion-OneDark.md",
-        "fileName": "2025-05-17-Notion-OneDark.md",
-        "repoOwner": "naico-wang",
-        "repoName": "typora-theme-notion-onedark"
-      }
-    ],
-    "loadingStats": false,
-    "stats": {
-      "stars": 10,
-      "lastCommitAt": "2025-08-03T03:19:11Z",
-      "description": null,
       "openIssues": 0,
       "error": false
     }
@@ -4320,34 +4225,65 @@
     }
   },
   {
-    "id": "CGMgit/Rhapsody-Typora-Theme",
-    "repoOwner": "CGMgit",
-    "repoName": "Rhapsody-Typora-Theme",
+    "id": "naico-wang/typora-theme-notion-onedark",
+    "repoOwner": "naico-wang",
+    "repoName": "typora-theme-notion-onedark",
     "themes": [
       {
         "layout": "theme",
-        "title": "Rhapsody · Typora 专属皮肤主题",
+        "title": "Notion OneDark",
         "category": "theme",
-        "homepage": "https://github.com/CGMgit/Rhapsody-Typora-Theme",
-        "download": "https://github.com/CGMgit/Rhapsody-Typora-Theme/releases",
+        "homepage": "https://github.com/naico-wang/typora-theme-notion-onedark",
+        "download": "https://github.com/naico-wang/typora-theme-notion-onedark",
         "built-in": "false",
-        "author": "帅气大王子CGM（The Radiant Prince）",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Rhapsody.png",
+        "author": "Naico Wang",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/notion-onedark.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/rhapsody",
-        "id": "2025-11-01-Rhapsody.md",
-        "fileName": "2025-11-01-Rhapsody.md",
-        "repoOwner": "CGMgit",
-        "repoName": "Rhapsody-Typora-Theme"
+        "typora-copy-images-to": "../../media/theme/notion-onedark",
+        "id": "2025-05-17-Notion-OneDark.md",
+        "fileName": "2025-05-17-Notion-OneDark.md",
+        "repoOwner": "naico-wang",
+        "repoName": "typora-theme-notion-onedark"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 26,
-      "lastCommitAt": "2025-12-12T02:39:17Z",
-      "description": "Rhapsody — A vivid Typora theme blending philosophy, color, and light.",
-      "license": "NOASSERTION",
-      "openIssues": 1,
+      "stars": 10,
+      "lastCommitAt": "2025-08-03T03:19:11Z",
+      "description": null,
+      "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "aerandirsf/Konayuki",
+    "repoOwner": "aerandirsf",
+    "repoName": "Konayuki",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Konayuki",
+        "category": "theme",
+        "homepage": "https://github.com/aerandirsf/Konayuki",
+        "download": "https://github.com/aerandirsf/Konayuki/releases",
+        "built-in": "false",
+        "author": "Aerandir",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Konayuki.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/konayuki",
+        "id": "2025-12-14-Konayuki.md",
+        "fileName": "2025-12-14-Konayuki.md",
+        "repoOwner": "aerandirsf",
+        "repoName": "Konayuki"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 9,
+      "lastCommitAt": "2026-01-05T19:43:54Z",
+      "description": "A Typora theme with light and dark style. 具有浅色和深色模式的 Typora 主题。",
+      "license": "MIT",
+      "openIssues": 0,
       "error": false
     }
   },
@@ -4384,32 +4320,66 @@
     }
   },
   {
-    "id": "typora/theme.typora.io",
-    "repoOwner": "typora",
-    "repoName": "theme.typora.io",
+    "id": "CGMgit/Rhapsody-Typora-Theme",
+    "repoOwner": "CGMgit",
+    "repoName": "Rhapsody-Typora-Theme",
     "themes": [
       {
         "layout": "theme",
-        "title": "Rose",
+        "title": "Rhapsody · Typora 专属皮肤主题",
         "category": "theme",
-        "homepage": "https://github.com/typora/theme.typora.io",
-        "download": "https://github.com/typora/theme.typora.io/blob/gh-pages/media/theme/rose/rose.zip",
-        "author": "Elyra",
-        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/rose.jpg",
+        "homepage": "https://github.com/CGMgit/Rhapsody-Typora-Theme",
+        "download": "https://github.com/CGMgit/Rhapsody-Typora-Theme/releases",
+        "built-in": "false",
+        "author": "帅气大王子CGM（The Radiant Prince）",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/Rhapsody.png",
         "typora-root-url": "../../",
-        "typora-copy-images-to": "../../media/theme/rose",
-        "id": "2025-12-27-Rose.md",
-        "fileName": "2025-12-27-Rose.md",
-        "repoOwner": "typora",
-        "repoName": "theme.typora.io"
+        "typora-copy-images-to": "../../media/theme/rhapsody",
+        "id": "2025-11-01-Rhapsody.md",
+        "fileName": "2025-11-01-Rhapsody.md",
+        "repoOwner": "CGMgit",
+        "repoName": "Rhapsody-Typora-Theme"
       }
     ],
     "loadingStats": false,
     "stats": {
-      "stars": 881,
-      "lastCommitAt": "2026-01-04T12:53:47Z",
-      "description": "Website for Typora themes",
-      "openIssues": 26,
+      "stars": 26,
+      "lastCommitAt": "2025-12-12T02:39:17Z",
+      "description": "Rhapsody — A vivid Typora theme blending philosophy, color, and light.",
+      "license": "NOASSERTION",
+      "openIssues": 1,
+      "error": false
+    }
+  },
+  {
+    "id": "HsiaoDeepie/typora-theme-pink-hsiao",
+    "repoOwner": "HsiaoDeepie",
+    "repoName": "typora-theme-pink-hsiao",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Pink Hsiao",
+        "category": "theme",
+        "homepage": "https://github.com/HsiaoDeepie/typora-theme-pink-hsiao",
+        "download": "https://github.com/HsiaoDeepie/typora-theme-pink-hsiao",
+        "built-in": "false",
+        "author": "Hsiao Deepie",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/pink-hsiao.png",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/pink-hsiao",
+        "id": "2025-12-15-PinkHsiao.md",
+        "fileName": "2025-12-15-PinkHsiao.md",
+        "repoOwner": "HsiaoDeepie",
+        "repoName": "typora-theme-pink-hsiao"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 5,
+      "lastCommitAt": "2026-01-17T11:58:34Z",
+      "description": "粉色系简约风格Typora主题 / Pink minimalist style Typora theme.",
+      "license": "MIT",
+      "openIssues": 0,
       "error": false
     }
   },
@@ -4472,6 +4442,36 @@
       "description": "JetBrains Dark for Typora themes",
       "license": "MIT",
       "openIssues": 0,
+      "error": false
+    }
+  },
+  {
+    "id": "typora/theme.typora.io",
+    "repoOwner": "typora",
+    "repoName": "theme.typora.io",
+    "themes": [
+      {
+        "layout": "theme",
+        "title": "Rose",
+        "category": "theme",
+        "homepage": "https://github.com/typora/theme.typora.io",
+        "download": "https://github.com/typora/theme.typora.io/blob/gh-pages/media/theme/rose/rose.zip",
+        "author": "Elyra",
+        "thumbnail": "https://raw.githubusercontent.com/typora/theme.typora.io/gh-pages/media/thumbnails/rose.jpg",
+        "typora-root-url": "../../",
+        "typora-copy-images-to": "../../media/theme/rose",
+        "id": "2025-12-27-Rose.md",
+        "fileName": "2025-12-27-Rose.md",
+        "repoOwner": "typora",
+        "repoName": "theme.typora.io"
+      }
+    ],
+    "loadingStats": false,
+    "stats": {
+      "stars": 881,
+      "lastCommitAt": "2026-01-04T12:53:47Z",
+      "description": "Website for Typora themes",
+      "openIssues": 26,
       "error": false
     }
   }
