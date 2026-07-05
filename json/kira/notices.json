@@ -3,44 +3,6 @@
   "updated_at": "2026-07-05 12:48:28",
   "notices": [
     {
-      "id": "kira-sample-pinned-20260705",
-      "level": "pinned",
-      "title": "置顶：通知中心使用说明",
-      "content": "> [!TIP]\n> 置顶通知会在通知中心时间线顶部展示。\n\n这条示例展示 **置顶通知** 和 GitHub 风格提示框。",
-      "published_at": "2026-07-05 11:45:27",
-      "url": "https://github.com/caolib/kira"
-    },
-    {
-      "id": "kira-sample-urgent-20260705",
-      "level": "urgent",
-      "title": "紧急：服务维护提醒",
-      "content": "> [!WARNING]\n> 紧急通知会在启动弹窗中优先显示。\n\n示例内容：今晚 23:00 - 23:30 可能出现短暂连接异常。",
-      "published_at": "2026-07-05 11:40:12",
-      "expires_at": "2026-07-12 23:59:59"
-    },
-    {
-      "id": "kira-sample-normal-link-20260705",
-      "level": "normal",
-      "title": "普通：新版功能介绍",
-      "content": "这条普通通知展示 Markdown：\n\n- 支持 **加粗** 和列表\n- 支持 [打开项目仓库](https://github.com/caolib/kira)\n- 普通通知不显示文字标签，只通过主题色区分",
-      "published_at": "2026-07-05 10:20:03"
-    },
-    {
-      "id": "kira-sample-normal-old-20260704",
-      "level": "normal",
-      "title": "普通：昨天的历史通知",
-      "content": "这条用于展示时间线中的历史通知。",
-      "published_at": "2026-07-04 18:05:44"
-    },
-    {
-      "id": "kira-sample-expired-20260701",
-      "level": "urgent",
-      "title": "已过期：旧维护公告",
-      "content": "> [!CAUTION]\n> 这条通知已经过期，不会在启动时弹窗，但仍会保留在历史时间线中。",
-      "published_at": "2026-07-01 09:30:00",
-      "expires_at": "2026-07-02 00:00:00"
-    },
-    {
       "id": "202675",
       "level": "urgent",
       "title": "已过期：旧维护公告",
