@@ -1,38 +1,30 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-05T00:00:00+08:00",
+  "updated_at": "2026-07-05 11:45:27",
   "notices": [
     {
       "id": "kira-notice-sample-normal",
       "level": "normal",
       "title": "普通通知示例",
       "content": "这是一条普通通知，支持 **Markdown**、列表和 [链接](https://github.com/caolib/kira)。",
-      "published_at": "2026-07-05T00:00:00+08:00",
-      "starts_at": "2099-01-01T00:00:00+08:00"
+      "published_at": "2026-07-05 11:45:27",
+      "expires_at": "2026-07-05 11:45:27"
     },
     {
       "id": "kira-notice-sample-urgent",
       "level": "urgent",
       "title": "紧急通知示例",
       "content": "> [!WARNING]\n> 这里会按 GitHub 风格警告框渲染。\n\n紧急通知会在启动弹窗中排在最前面。",
-      "published_at": "2026-07-05T00:00:00+08:00",
-      "starts_at": "2099-01-01T00:00:00+08:00"
+      "published_at": "2026-07-05 11:45:27",
+      "expires_at": "2026-07-05 11:45:27"
     },
     {
       "id": "kira-notice-sample-pinned",
       "level": "pinned",
       "title": "置顶通知示例",
-      "content": "> [!TIP]> 置顶通知会在通知中心时间线顶部展示。\n\n发布正式通知时，把 starts_at 改为当前时间或删除即可。",
-      "published_at": "2026-07-05T00:00:00+08:00",
-      "starts_at": "2099-01-01T00:00:00+08:00"
-    },
-    {
-      "id": "1",
-      "level": "pinned",
-      "title": "置顶通知示例",
-      "content": "> [!TIP]> \n置顶通知会在通知中心时间线顶部展示。\n\n发布正式通知时，把 starts_at 改为当前时间或删除即可。",
+      "content": "> [!TIP]\n> 置顶通知会在通知中心时间线顶部展示。\n\n发布正式通知时，移除 \u001bxpires_at 或设置为未来时间即可。",
       "published_at": "2026-07-05 11:45:27",
-      "starts_at": "2000-01-01T00:00:00+08:00"
+      "expires_at": "2026-07-05 11:45:27"
     }
   ]
 }
