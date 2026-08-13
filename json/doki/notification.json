@@ -32,5 +32,13 @@
         "message": [
             "1.6.1版本copy源会丢失阅读记录，最好更新一下"
         ]
+    },
+    {
+        "id": 6,
+        "time": "2026-08-13",
+        "type": "warning",
+        "message": [
+            "如果你使用手机端并且仅看漫画，现在更推荐你迁移到kira（https://github.com/caolib/kira）"
+        ]
     }
 ]
